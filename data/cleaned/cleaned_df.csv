@@ -1,0 +1,1123 @@
+state,utility_name,customer_count,shutoffs,disconnection_rate,producer_type
+MN,Northwestern Wisconsin Elec Co,88.0,0.0,0.0,Investor-Owned
+NY,Fishers Island Utility Co Inc,657.0,0.0,0.0,Investor-Owned
+IA,Amana Society Service Co,713.0,1.0,0.001402524544,Investor-Owned
+HI,Maui Electric Co LTD,61811.0,138.0,0.002232627368,Investor-Owned
+NY,Central Hudson Gas & Elec Corp,275025.0,733.0,0.002665209831,Investor-Owned
+WI,North Central Power Co Inc,4991.0,14.0,0.0028050959240000003,Investor-Owned
+MO,Empire District Electric Co,141381.0,408.0,0.002885812366,Investor-Owned
+MA,Nantucket Electric Co,12823.0,46.0,0.0035872807499999996,Investor-Owned
+NY,Consolidated Edison Co-Ny Inc,3077967.0,12690.0,0.004122851889,Investor-Owned
+AZ,Morenci Water And Electric,2232.0,13.0,0.0058237204610000004,Investor-Owned
+KS,Empire District Electric Co,8341.0,53.0,0.00635447161,Investor-Owned
+WI,Dahlberg Light & Power Co,10939.0,72.0,0.006581804054,Investor-Owned
+PA,Citizens Electric Co - (PA),5958.0,40.0,0.006713662303,Investor-Owned
+WA,Puget Sound Energy Inc,1091599.0,7532.0,0.006899970204,Investor-Owned
+PA,Wellsborough Electric Co,5160.0,36.0,0.0069770822229999994,Investor-Owned
+IN,Northern Indiana Pub Serv Co,490669.0,3576.0,0.007288015009,Investor-Owned
+OK,Empire District Electric Co,3874.0,30.0,0.007744766904,Investor-Owned
+WA,Pacificorp,115751.0,1090.0,0.009416792416,Investor-Owned
+WY,Pacificorp,116560.0,1195.0,0.010252274589999999,Investor-Owned
+UT,Pacificorp,940760.0,10059.0,0.01069242458,Investor-Owned
+WI,Northwestern Wisconsin Elec Co,12965.0,142.0,0.0109525646,Investor-Owned
+AR,Empire District Electric Co,4780.0,60.0,0.01255142598,Investor-Owned
+NJ,Jersey Central Power & Lt Co,1035046.0,13155.0,0.01270958313,Investor-Owned
+NY,Rochester Gas & Electric Corp,294053.0,4011.774,0.013643030339999999,Investor-Owned
+SD,Montana-Dakota Utilities Co,6294.0,86.0,0.01366489235,Investor-Owned
+MI,Alpena Power Co,13752.0,196.0,0.01425255873,Investor-Owned
+KY,Kentucky Utilities Co,474646.0,6837.0,0.014404414240000002,Investor-Owned
+RI,The Narragansett Electric Co,452383.0,6746.0,0.014912137539999998,Investor-Owned
+SD,"Black Hills Power, Inc.",60951.0,931.0,0.01527462747,Investor-Owned
+MT,NorthWestern Energy LLC - (MT),293481.0,4500.0,0.01533321199,Investor-Owned
+FL,Florida Public Utilities Co,25560.0,395.0,0.015453834120000001,Investor-Owned
+MT,Montana-Dakota Utilities Co,19596.0,304.0,0.01551350202,Investor-Owned
+WY,Montana-Dakota Utilities Co,14593.0,234.0,0.016034627489999998,Investor-Owned
+NM,Public Service Co of NM,492945.0,8057.0,0.01634462815,Investor-Owned
+WI,Madison Gas & Electric Co,144610.0,2575.0,0.017806514069999998,Investor-Owned
+CA,Southern California Edison Co,4624551.0,88061.0,0.01904206381,Investor-Owned
+WY,Cheyenne Light Fuel & Power,39953.0,795.0,0.01989821458,Investor-Owned
+ID,Pacificorp,74588.0,1532.0,0.02053947402,Investor-Owned
+CO,"Black Hills Colorado Electric, Llc",89252.0,1835.0,0.02055972497,Investor-Owned
+MA,Massachusetts Electric Co,1210221.0,25121.0,0.020757371519999998,Investor-Owned
+MD,The Potomac Edison Company,256766.0,5456.0,0.021248898559999996,Investor-Owned
+NH,Unitil Energy Systems,68551.0,1542.0,0.02249422874,Investor-Owned
+ND,Otter Tail Power Co,46554.0,1060.0,0.02276950176,Investor-Owned
+MD,Potomac Electric Power Co,553607.0,12611.0,0.0227797078,Investor-Owned
+CA,Pacificorp,36675.0,842.0,0.022958679380000003,Investor-Owned
+SD,MidAmerican Energy Co,4230.0,98.0,0.02316602317,Investor-Owned
+AZ,"Uns Electric, Inc",94425.0,2205.0,0.02335190778,Investor-Owned
+IA,MidAmerican Energy Co,631006.0,15107.0,0.02394114159,Investor-Owned
+CT,Connecticut Light & Power Co,1161171.0,28405.0,0.02446238164,Investor-Owned
+MN,"ALLETE, Inc.",125896.0,3116.0,0.024750587789999997,Investor-Owned
+ID,Avista Corp,137574.0,3441.0,0.025012054149999997,Investor-Owned
+IL,Commonwealth Edison Co,3691840.0,95605.0,0.02589629811,Investor-Owned
+PA,"UGI Utilities, INC",55005.0,1443.0,0.0262342172,Investor-Owned
+IL,MidAmerican Energy Co,73192.0,1940.0,0.026505689389999997,Investor-Owned
+CA,San Diego Gas & Electric Co,1360226.0,36881.0,0.027113878329999997,Investor-Owned
+NC,Virginia Electric & Power Co,108656.0,2956.0,0.02720514529,Investor-Owned
+ND,Montana-Dakota Utilities Co,79239.0,2179.0,0.02749896937,Investor-Owned
+NJ,Atlantic City Electric Co,506472.0,13992.0,0.02762642656,Investor-Owned
+OH,The Toledo Edison Co,279790.0,14302.0,0.05111686344,Investor-Owned
+MI,Northern States Power Co,7579.0,219.0,0.02889563267,Investor-Owned
+PA,Pike County Light & Power Co,3646.0,107.0,0.02934722984,Investor-Owned
+MI,Upper Michigan Energy Resources Corp.,33252.0,1000.0,0.03007337904,Investor-Owned
+OH,Dayton Power & Light Co,481025.0,14470.0,0.03008157575,Investor-Owned
+CO,Public Service Co of Colorado,1365053.0,41786.0,0.030611276859999998,Investor-Owned
+WI,Wisconsin Power & Light Co,444284.0,13869.0,0.03121652502,Investor-Owned
+MN,Otter Tail Power Co,52145.0,1631.0,0.031278416579999996,Investor-Owned
+AZ,Tucson Electric Power Co,409548.0,12914.0,0.03153231702,Investor-Owned
+WV,The Potomac Edison Company,135266.0,4304.0,0.03181872788,Investor-Owned
+NH,Public Service Co of NH,455078.0,14573.0,0.03202310521,Investor-Owned
+ME,Versant Power,109130.0,3496.0,0.03203526078,Investor-Owned
+OH,Cleveland Electric Illum Co,676708.0,21684.0,0.032043386539999996,Investor-Owned
+SD,NorthWestern Energy - (SD),46939.0,1511.0,0.03219071561,Investor-Owned
+NY,Niagara Mohawk Power Corp.,1515683.0,48918.0,0.03227455163,Investor-Owned
+SD,Otter Tail Power Co,9445.0,307.0,0.032503110030000004,Investor-Owned
+MA,NSTAR Electric Company,383373.0,12630.0,0.03294441706,Investor-Owned
+AZ,Arizona Public Service Co,1258323.0,41871.0,0.03327524675,Investor-Owned
+KY,Kentucky Power Co,130852.0,4406.0,0.03367175768,Investor-Owned
+WI,Wisconsin Public Service Corp,414076.0,14007.0,0.03382715075,Investor-Owned
+WY,"Black Hills Power, Inc.",2018.0,69.0,0.03419085766,Investor-Owned
+VT,Green Mountain Power Corp,229573.0,8264.0,0.03599719915,Investor-Owned
+HI,Hawaiian Electric Co Inc,276206.0,10011.0,0.03624475255,Investor-Owned
+WV,Monongahela Power Co,334588.0,12205.0,0.03647770703,Investor-Owned
+OR,Pacificorp,553547.0,21124.0,0.03816117363,Investor-Owned
+MD,Baltimore Gas & Electric Co,1206868.0,46591.0,0.03860487938,Investor-Owned
+WI,Superior Water and Light Co,12952.0,502.0,0.03875874227,Investor-Owned
+NY,New York State Elec & Gas Corp,724621.0,28114.0,0.03879823544,Investor-Owned
+IL,Mt Carmel Public Utility Co,4355.0,170.0,0.03903185688,Investor-Owned
+NC,Duke Energy Progress - NC,1356079.0,53109.0,0.03916364514,Investor-Owned
+CA,Pacific Gas & Electric Co.,4750916.0,191055.0,0.04021434813,Investor-Owned
+AK,Alaska Power And Telephone Co,5737.0,232.0,0.04043925397,Investor-Owned
+MD,Delmarva Power,186368.0,7729.0,0.04147165625,Investor-Owned
+MN,Northern States Power Co - Minnesota,1230057.0,52259.0,0.042485040319999993,Investor-Owned
+OR,Portland General Electric Co,829629.0,35324.0,0.04257808086,Investor-Owned
+HI,Hawaii Electric Light Co Inc,78386.0,3339.0,0.042596756449999995,Investor-Owned
+AK,Alaska Electric Light & Power Co.,15271.0,665.0,0.043545878690000005,Investor-Owned
+PA,PECO Energy Co,1534059.0,67258.0,0.043843178079999996,Investor-Owned
+WA,Avista Corp,252575.0,11285.0,0.0446797686,Investor-Owned
+NH,Liberty Utilities (Granite State Electri,39874.0,1801.0,0.045167182529999995,Investor-Owned
+NC,"Duke Energy Carolinas, Llc",1919372.0,87502.0,0.045588861779999997,Investor-Owned
+AR,Southwestern Electric Power Co,108104.0,4989.0,0.04615007484999999,Investor-Owned
+MI,Upper Peninsula Power Company,47654.0,2221.0,0.046606383109999996,Investor-Owned
+IN,"Duke Energy Indiana, LLC",784677.0,36644.0,0.046699455089999994,Investor-Owned
+IA,Interstate Power and Light Co,429779.0,20276.0,0.047177772119999996,Investor-Owned
+NJ,Public Service Elec & Gas Co,2056231.0,98288.0,0.047800071129999996,Investor-Owned
+IN,Southern Indiana Gas & Elec Co,133124.0,6368.0,0.04783507116,Investor-Owned
+PA,Duquesne Light Co,550405.0,26746.0,0.04859330856,Investor-Owned
+AZ,Ajo Improvement Co,821.0,40.0,0.04870624049,Investor-Owned
+PA,PPL Electric Utilities Corp,1285925.0,62802.0,0.04883798017,Investor-Owned
+DC,Potomac Electric Power Co,318780.0,15623.0,0.049008682309999996,Investor-Owned
+MA,Fitchburg Gas & Elec Light Co,26290.0,1303.0,0.04956319974,Investor-Owned
+KY,Duke Energy Kentucky,139405.0,6977.0,0.050048270480000004,Investor-Owned
+PA,Firstenergy Pennsylvania Electric Co,1806011.0,91163.0,0.05047755813,Investor-Owned
+OH,Duke Energy Ohio Inc,693435.0,38009.0,0.05481262247,Investor-Owned
+NY,Firstenergy Pennsylvania Electric Co,3399.0,177.0,0.05207924676,Investor-Owned
+SC,"Duke Energy Carolinas, Llc",568586.0,29833.0,0.05246874814,Investor-Owned
+ND,Northern States Power Co - Minnesota,82987.0,4498.0,0.054201097159999996,Investor-Owned
+OR,Idaho Power Co,13799.0,754.0,0.05464098074,Investor-Owned
+OH,Ohio Edison Co,959319.0,27574.0,0.02874329896,Investor-Owned
+WI,Northern States Power Co,220574.0,12107.0,0.05488850513,Investor-Owned
+KS,Evergy Metro,244555.0,13443.0,0.05496934221,Investor-Owned
+ME,Central Maine Power Co,589868.0,33158.0,0.05621261608,Investor-Owned
+MI,Consumers Energy Co,1677450.0,97706.0,0.05824675514,Investor-Owned
+WI,Wisconsin Electric Power Co,1039208.0,60877.0,0.058580202080000005,Investor-Owned
+MO,Evergy Missouri West,305583.0,19034.0,0.062287513350000004,Investor-Owned
+DE,Delmarva Power,302040.0,19833.0,0.0656633977,Investor-Owned
+IL,Ameren Illinois Company,1060675.0,72296.0,0.068160391,Investor-Owned
+KS,"Evergy Kansas Central, Inc",341806.0,23649.0,0.06918840375,Investor-Owned
+MS,Mississippi Power Co,157437.0,10988.0,0.06979299656,Investor-Owned
+ID,Idaho Power Co,508099.0,35591.0,0.07004739563000001,Investor-Owned
+MO,Evergy Metro,273860.0,19300.0,0.07047392191,Investor-Owned
+GA,Georgia Power Co,2429276.0,187007.0,0.07698054102,Investor-Owned
+NM,El Paso Electric Co,107378.0,8505.0,0.07920641474,Investor-Owned
+MO,Union Electric Co - (MO),1093848.0,100575.0,0.09194607536999999,Investor-Owned
+MI,DTE Electric Company,2065856.0,190173.0,0.09205532155,Investor-Owned
+VA,Appalachian Power Co,465283.0,44007.0,0.09458109657,Investor-Owned
+KS,"Evergy Kansas South, Inc",302508.0,28725.0,0.09495606181999999,Investor-Owned
+SC,"Dominion Energy South Carolina, Inc",696385.0,67673.0,0.09717759026,Investor-Owned
+CT,United Illuminating Co,368234.0,36503.0,0.09912990110000001,Investor-Owned
+TN,Kingsport Power Co,43159.0,4642.0,0.1075570282,Investor-Owned
+WI,Consolidated Water Power Co,70.0,8.0,0.1138790036,Investor-Owned
+NV,Sierra Pacific Power Co,330891.0,38203.0,0.1154551128,Investor-Owned
+TX,Entergy Texas Inc.,457369.0,53334.0,0.11661050299999999,Investor-Owned
+SC,Duke Energy Progress - NC,143713.0,16860.0,0.11731742499999999,Investor-Owned
+KY,Louisville Gas & Electric Co,384902.0,46431.0,0.12063070599999999,Investor-Owned
+MI,Indiana Michigan Power Co,112600.0,14399.0,0.127877253,Investor-Owned
+OH,Ohio Power Co,1339232.0,172411.0,0.1287386939,Investor-Owned
+SC,Lockhart Power Co,4976.0,685.0,0.1376653827,Investor-Owned
+TX,El Paso Electric Co,352021.0,48700.0,0.13834398650000002,Investor-Owned
+WV,Black Diamond Power Co,3870.0,562.0,0.1452258926,Investor-Owned
+WV,Wheeling Power Co,34392.0,5074.0,0.1475339528,Investor-Owned
+AR,Entergy Arkansas LLC,608363.0,91283.0,0.1500468676,Investor-Owned
+FL,"Duke Energy Florida, Llc",1820759.0,275826.0,0.1514895919,Investor-Owned
+NV,Nevada Power Co,916385.0,139553.0,0.1522864298,Investor-Owned
+VA,Virginia Electric & Power Co,2383548.0,368473.0,0.154590105,Investor-Owned
+AL,Alabama Power Co,1335705.0,208579.0,0.1561564574,Investor-Owned
+IN,Indiana Michigan Power Co,422062.0,66766.0,0.1581899665,Investor-Owned
+LA,Southwestern Electric Power Co,207338.0,32864.0,0.15850421609999998,Investor-Owned
+NY,Orange & Rockland Utils Inc,211943.0,38919.0,0.1836293442,Investor-Owned
+WV,Appalachian Power Co,348946.0,64766.0,0.1856046051,Investor-Owned
+TX,Southwestern Electric Power Co,156280.0,29645.0,0.18969127579999998,Investor-Owned
+FL,Tampa Electric Co,757280.0,168629.0,0.2226772132,Investor-Owned
+MS,Entergy Mississippi LLC,384611.0,87163.0,0.2266264817,Investor-Owned
+FL,Florida Power & Light Co,5297328.0,1229818.0,0.23215818209999997,Investor-Owned
+OK,Oklahoma Gas & Electric Co,711360.0,167275.0,0.23514805670000002,Investor-Owned
+TX,Texas-New Mexico Power Co,232882.0,62740.0,0.2694067277,Investor-Owned
+AR,Oklahoma Gas & Electric Co,58224.0,16153.0,0.2774277577,Investor-Owned
+TX,Oncor Electric Delivery Company LLC,3477215.0,1241425.0,0.35701708940000004,Investor-Owned
+TX,Centerpoint Energy,2493149.0,954139.0,0.38270432470000004,Investor-Owned
+OK,Public Service Co Of Oklahoma,498578.0,290739.0,0.5831367324,Investor-Owned
+GA,City of Camilla,2481.41666666667,1921.0,0.774154548812842,Municipal
+AL,Sylacauga Utilities Board,5124.91666666667,3907.0,0.762353859412348,Municipal
+SC,City of Orangeburg - (SC),20616.25,15709.0,0.761971745589038,Municipal
+FL,City Of Ocala,46885.1666666667,33849.0,0.72195541589202,Municipal
+SC,City of Newberry - (SC),4501.66666666667,3181.0,0.706627175120326,Municipal
+GA,City Of Chattanooga - (TN),10368.5833333333,7056.0,0.680517267707739,Municipal
+GA,"Newnan Wtr, Sewer & Light Comm",8558.83333333333,5696.0,0.665511265164645,Municipal
+WI,City of Evansville,193.083333333333,126.0,0.652567975830816,Municipal
+NM,City of Farmington - (NM),39004.5833333333,23312.0,0.597673350354125,Municipal
+LA,City of Ruston - (LA),9981.5,5727.0,0.573761458698592,Municipal
+SC,City of Gaffney - (SC),6313.75,3608.0,0.571451197782617,Municipal
+AL,City of Huntsville - (AL),198345.333333333,107061.0,0.539770702949065,Municipal
+TN,City of Memphis - (TN),380286.166666667,182151.0,0.478984028255914,Municipal
+CA,City Of Moreno Valley - (CA),7394.75,3532.0,0.477636160789749,Municipal
+GA,City Of Covington - (GA),14443.1666666667,6887.0,0.476834489204814,Municipal
+KS,City Of Kansas City - KS,58382.9166666667,27716.0,0.474727909848058,Municipal
+TN,City of Newbern,1834.41666666667,845.0,0.460636896379412,Municipal
+NC,City of Statesville - (NC),11973.4166666667,5391.0,0.450247423110919,Municipal
+TN,City Of Chattanooga - (TN),163693.166666667,73540.0,0.449255161333348,Municipal
+LA,Morgan City - (LA),4217.25,1840.0,0.43630327820262,Municipal
+MO,City of Waynesville - (MO),2406.41666666667,1037.0,0.430931190913184,Municipal
+NC,Fayetteville Public Works Commission,75986.75,31585.0,0.415664573099915,Municipal
+AR,City Of North Little Rock - (AR),35586.9166666667,14584.0,0.409813531658404,Municipal
+GA,City Of Griffin - (GA),13593.75,5484.0,0.403420689655172,Municipal
+LA,City of Alexandria - (LA),21483.75,8609.0,0.400721475533834,Municipal
+AR,City Of West Memphis - (AR),10198.5,3750.0,0.367701132519488,Municipal
+GA,City Of East Point - (GA),19410.8333333333,7103.0,0.365929678444168,Municipal
+FL,City Of Bartow - (FL),11196.1666666667,4001.0,0.357354451672447,Municipal
+NC,City of Gastonia - (NC),27007.75,9598.0,0.355379474410123,Municipal
+CO,City Of Fountain,16969.9166666667,5906.0,0.348027637142198,Municipal
+DE,Town Of Middletown - (DE),9071.41666666667,3089.0,0.340520131916184,Municipal
+FL,Kissimmee Utility Authority,80031.5,26907.0,0.336205119234302,Municipal
+OK,City of Geary - (OK),378.166666666667,126.0,0.333186425738211,Municipal
+KS,City Of Garden City,10422.1666666667,3314.0,0.317976108614651,Municipal
+AL,City Of Dothan - Al,26722.3333333333,8497.0,0.317973729838961,Municipal
+NC,City of Wilson,32076.5,10078.0,0.314186398141942,Municipal
+MI,City of Lansing - (MI),87404.4166666667,27372.0,0.313164952572,Municipal
+FL,Fort Pierce Utilities Authority,24308.5833333333,7592.0,0.312317665570803,Municipal
+AR,City Of Siloam Springs - (AR),9786.83333333333,3038.0,0.310417056930229,Municipal
+FL,City Of Tallahassee - (FL),108476.166666667,33605.0,0.309791551754072,Municipal
+TN,City of Clinton - (TN),31148.8333333333,9518.0,0.305565216460756,Municipal
+TN,City of Brownsville,7558.91666666667,2277.0,0.301233642387026,Municipal
+SC,Bamberg Board of Public Works,1440.08333333333,431.0,0.299288235634512,Municipal
+TX,City of Greenville - (TX),17123.0833333333,5104.0,0.298077157054074,Municipal
+GA,City of Douglas,5794.33333333333,1716.0,0.296151412299373,Municipal
+SC,City of Rock Hill - (SC),34699.3333333333,10249.0,0.295365905204711,Municipal
+TX,City of Garland - (TX),90179.0,26140.0,0.289867929340534,Municipal
+TX,City of Castroville - (TX),1282.33333333333,370.0,0.288536521965168,Municipal
+NC,City of Kinston - (NC),9901.66666666667,2806.0,0.283386635246592,Municipal
+FL,City Of Lake Worth Beach - (FL),24498.0833333333,6929.0,0.282838453348391,Municipal
+NC,Town of High Point,38789.25,10903.0,0.281083032025626,Municipal
+NC,City of Monroe - (NC),10542.1666666667,2959.0,0.280682339177588,Municipal
+AL,City Of Troy - (AL),7858.41666666667,2155.0,0.27422826905335,Municipal
+MO,City of Sikeston - (MO),8718.33333333333,2386.0,0.273676161345823,Municipal
+NC,City of Albemarle - (NC),10720.1666666667,2929.0,0.273223364064613,Municipal
+AL,City of Piedmont - (AL),1806.41666666667,483.0,0.2673801725331,Municipal
+GA,City Of Sylvania - (GA),1725.83333333333,445.0,0.25784645098986,Municipal
+TN,City of Jackson - (TN),38094.9166666667,9774.0,0.256569664806547,Municipal
+KS,City of Winfield - (KS),6335.41666666667,1564.0,0.246866162446564,Municipal
+AL,City Of Opelika - Al,13318.5,3272.0,0.24567331155911,Municipal
+NC,Greenville Utilities Comm,65822.8333333333,16066.0,0.244079435454262,Municipal
+NC,City of Rocky Mount - (NC),25666.5,6260.0,0.243897687647322,Municipal
+NE,City of South Sioux City,6325.91666666667,1508.0,0.238384423864789,Municipal
+TN,City of Pulaski - (TN),12742.25,3013.0,0.236457454531186,Municipal
+TN,City of Cleveland - (TN),29046.0,6855.0,0.236004957653377,Municipal
+NC,City of Morganton - (NC),7050.91666666667,1654.0,0.234579428206734,Municipal
+SC,Easley Combined Utility System,17128.25,3875.0,0.226234437260082,Municipal
+MO,City of Poplar Bluff - (MO),9930.75,2241.0,0.225662714296503,Municipal
+SC,Greer Commission of Public Wks,22412.4166666667,5009.0,0.223492186250925,Municipal
+MO,City of Hannibal - (MO),8797.5,1936.0,0.220062517760727,Municipal
+AR,Clarksville Connected Utilities,3812.41666666667,833.0,0.2184965791602,Municipal
+WA,City of Tacoma - (WA),175581.5,37882.0,0.215751659485766,Municipal
+NC,City of Elizabeth City - (NC),13492.4166666667,2906.0,0.215380244458307,Municipal
+GA,City Of College Park - (GA),8932.83333333333,1922.0,0.215161296341213,Municipal
+VA,Bristol Virginia Utilities,13621.1666666667,2897.0,0.21268369082433,Municipal
+OK,City of Ponca City - (OK),15573.8333333333,3302.0,0.212022302366148,Municipal
+AL,Sheffield Utilities,15635.0,3133.0,0.200383754397186,Municipal
+AR,City Of Hope,5619.5,1109.0,0.197348518551473,Municipal
+SC,Greenwood CPW,11949.6666666667,2340.0,0.195821361823203,Municipal
+AL,City of Robertsdale,2950.0,576.0,0.195254237288136,Municipal
+TN,Weakley County Mun Elec Sys,15194.4166666667,2963.0,0.195005840961318,Municipal
+MS,Greenwood Utilities Comm,8919.33333333333,1733.0,0.194297032663129,Municipal
+TX,City of San Marcos - (TX),22832.0,4421.0,0.193631744919411,Municipal
+IL,City of Red Bud - (IL),1756.0,338.0,0.19248291571754,Municipal
+MO,City of Independence - (MO),53806.0,10295.0,0.191335538787496,Municipal
+MO,City of Lebanon - (MO),5968.58333333333,1141.0,0.191167641679349,Municipal
+NC,City of Kings Mountain - (NC),5153.75,985.0,0.191122968712103,Municipal
+GA,City of Elberton,3487.75,664.0,0.190380617876855,Municipal
+TX,City of Bryan - (TX),69030.5,12922.0,0.187192617755919,Municipal
+ID,City Of Idaho Falls - ID,32314.8333333333,6045.0,0.187065795377768,Municipal
+GA,City of La Grange - (GA),13957.1666666667,2602.0,0.186427522300371,Municipal
+GA,City of Cartersville - (GA),9427.25,1727.0,0.183192341350871,Municipal
+FL,City of Blountstown - (FL),967.583333333333,177.0,0.182929980191198,Municipal
+CO,City Of Loveland - (CO),36768.8333333333,6671.0,0.181430831365332,Municipal
+OH,Clyde Light & Power,2770.5,498.0,0.179750947482404,Municipal
+NC,City Of Lexington - (NC),18053.0,3216.0,0.178142137040935,Municipal
+MO,City of Cuba - (MO),1623.41666666667,287.0,0.176787639238232,Municipal
+IN,City of Frankfort - (IN),7819.5,1381.0,0.176609757657139,Municipal
+GA,City Of Lawrenceville - (GA),10387.5833333333,1819.0,0.175112915259404,Municipal
+IN,City of Peru - (IN),9242.41666666667,1609.0,0.174088667285793,Municipal
+AZ,City of Safford - (AZ),4702.66666666667,816.0,0.173518571023533,Municipal
+CO,City Of Fort Collins - (CO),70803.25,12224.0,0.172647442031263,Municipal
+TN,City of Harriman - (TN),9310.66666666667,1603.0,0.172168122583417,Municipal
+GA,City Of Calhoun - (GA),4726.41666666667,809.0,0.171165611721353,Municipal
+NC,City of Concord - (NC),29839.6666666667,5098.0,0.170846412493437,Municipal
+UT,City of Logan - (UT),19455.0,3314.0,0.170341814443588,Municipal
+TN,City of Lawrenceburg,21688.5,3670.0,0.169214099638057,Municipal
+MS,City of Starkville,12520.6666666667,2109.0,0.168441510036739,Municipal
+FL,City of Chattahoochee - (FL),1067.5,175.0,0.163934426229508,Municipal
+TN,City of Morristown - (TN),16424.1666666667,2665.0,0.162260896037343,Municipal
+KY,City of Franklin - (KY),4544.33333333333,734.0,0.161519841560918,Municipal
+AL,Decatur Utilities,21428.9166666667,3392.0,0.158290783092939,Municipal
+FL,JEA,470564.333333333,74025.0,0.157311115093721,Municipal
+FL,City of Starke - (FL),2957.58333333333,464.0,0.156884844044969,Municipal
+MO,City of Monett - (MO),4611.16666666667,720.0,0.156142697075939,Municipal
+OH,City of Piqua - (OH),9733.75,1495.0,0.153589315525876,Municipal
+IN,City of Rensselaer - (IN),2690.08333333333,413.0,0.153526842415043,Municipal
+AL,City of Tuscumbia,4071.41666666667,622.0,0.152772376527417,Municipal
+IN,City of Lebanon - (IN),9330.0,1413.0,0.151446945337621,Municipal
+TN,City of Alcoa Utilities,27772.8333333333,4187.0,0.150758835072643,Municipal
+NY,Jamestown Board of Public Util,16383.5,2433.0,0.148503067110202,Municipal
+MO,City of Rolla - (MO),9043.41666666667,1335.0,0.147621197740529,Municipal
+UT,Provo City Corp,34914.4166666667,5099.0,0.146042823761913,Municipal
+OK,Town of Mannford - (OK),1142.58333333333,166.0,0.14528480781854,Municipal
+TX,City of Denton - (TX),66968.1666666667,9638.0,0.143919125753779,Municipal
+DE,City Of Dover - (DE),25025.4166666667,3580.0,0.143054561196117,Municipal
+MO,City of Richland - (MO),828.166666666667,118.0,0.142483397061783,Municipal
+TN,City of Etowah,4437.33333333333,631.0,0.142202524038462,Municipal
+PA,Borough of Chambersburg - (PA),11274.0,1596.0,0.141564662054284,Municipal
+TN,City of Lexington - (TN),17898.4166666667,2491.0,0.139174321750993,Municipal
+KS,City of Osage City - (KS),1452.41666666667,202.0,0.139078547248838,Municipal
+MO,City of Shelbina - (MO),752.916666666667,104.0,0.138129496402878,Municipal
+NE,City of Lexington - (NE),3814.91666666667,526.0,0.137879813888464,Municipal
+KY,City of Frankfort - (KY),16955.0833333333,2318.0,0.136714161436344,Municipal
+NC,City of Washington - (NC),14291.75,1951.0,0.136512323543303,Municipal
+CA,City & County Of San Francisco,3133.75,427.0,0.136258476266454,Municipal
+IN,City of Auburn - (IN),6751.25,918.0,0.135974819477874,Municipal
+VA,City of Harrisonburg - (VA),18088.6666666667,2459.0,0.135941473482475,Municipal
+CA,City Of Roseville - (CA),55337.75,7495.0,0.13544099642649,Municipal
+TN,Columbia Power System - (TN),36057.4166666667,4875.0,0.13520103353679,Municipal
+MI,Village of Baraga - (MI),790.333333333333,105.0,0.132855335301561,Municipal
+OK,City of Pryor - (OK),3976.0,522.0,0.131287726358149,Municipal
+TN,City of Humboldt,3443.83333333333,452.0,0.131249092580942,Municipal
+TN,City of Oak Ridge,18404.75,2396.0,0.13018378407748,Municipal
+NC,City of New Bern - (NC),21048.9166666667,2721.0,0.129270310823597,Municipal
+IN,City Of Mishawaka,28834.5833333333,3665.0,0.127104316286866,Municipal
+CA,City Of Riverside - (CA),100871.166666667,12799.0,0.126884623455332,Municipal
+AR,City Water And Light Plant,34179.1666666667,4317.0,0.126305010362063,Municipal
+OK,City of Edmond - (OK),43988.5,5549.0,0.126146606499426,Municipal
+AR,Conway Corporation,31144.9166666667,3924.0,0.125991667982201,Municipal
+TX,City of Georgetown - (TX),34219.0833333333,4308.0,0.125894664039802,Municipal
+KY,City of Owensboro - (KY),25456.5833333333,3194.0,0.125468526478089,Municipal
+VA,City of Danville - (VA),34649.9166666667,4339.0,0.125223966387606,Municipal
+LA,City of Lafayette - (LA),56433.5833333333,7061.0,0.125120532543418,Municipal
+LA,City of Plaquemine - (LA),4536.5,563.0,0.124104485837099,Municipal
+TX,City Of San Antonio - TX,857189.166666667,105131.0,0.122646207031315,Municipal
+AL,City Of Florence - (AL),52193.9166666667,6383.0,0.122293945494925,Municipal
+CO,City of Fort Morgan,5952.91666666667,728.0,0.122292993630573,Municipal
+KY,City of Fulton - (KY),1515.91666666667,184.0,0.121378703754604,Municipal
+LA,Town of Gueydan,626.5,76.0,0.121308858739026,Municipal
+MO,City of Macon - (MO),2665.08333333333,323.0,0.121196960695413,Municipal
+CA,Sacramento Municipal Utility District,592557.166666667,70815.0,0.119507456805152,Municipal
+TN,City of Gallatin - (TN),22570.1666666667,2695.0,0.119405409796117,Municipal
+IL,City of McLeansboro - (IL),1311.41666666667,156.0,0.118955328207409,Municipal
+IL,City of Sullivan - (IL),2212.25,263.0,0.118883489659849,Municipal
+AL,Foley Board Of Utilities,46687.4166666667,5284.0,0.113178247529224,Municipal
+KY,City of Providence - (KY),1176.58333333333,133.0,0.113039167079822,Municipal
+NE,City Of Grand Island - NE,27637.6666666667,3120.0,0.112889414205251,Municipal
+OH,City of Niles - (OH),11875.0,1336.0,0.112505263157895,Municipal
+TN,City of Dayton - (TN),11986.75,1314.0,0.109621039898221,Municipal
+NE,City of North Platte,11220.75,1226.0,0.109261858610164,Municipal
+OK,City of Yale - (OK),534.083333333333,58.0,0.108597285067873,Municipal
+MS,City of New Albany - (MS),8153.5,865.0,0.106089409456062,Municipal
+NC,City of Lumberton - (NC),11134.0833333333,1181.0,0.106070698830169,Municipal
+GA,City Of Chickamauga,890.583333333333,94.0,0.105548797604566,Municipal
+TX,City of Hemphill - (TX),530.75,56.0,0.105511069241639,Municipal
+NE,City of Nebraska City - (NE),4909.5,518.0,0.105509726041348,Municipal
+IN,City of Logansport - (IN),13330.5833333333,1394.0,0.104571567885876,Municipal
+OH,City of Columbus - (OH),14930.8333333333,1558.0,0.104347826086957,Municipal
+AR,Paragould Light & Water Comm,12540.25,1295.0,0.103267478718526,Municipal
+MS,City of Amory,2817.58333333333,290.0,0.10292508355269,Municipal
+OK,Stillwater Utilities Authority,19639.5833333333,1996.0,0.101631484035218,Municipal
+VA,City of Salem - (VA),11091.0,1126.0,0.101523758001984,Municipal
+MS,City of Philadelphia - (MS),2672.58333333333,271.0,0.101400018708491,Municipal
+MA,City of Holyoke - (MA),15040.0,1525.0,0.101396276595745,Municipal
+IL,Village of Riverton - (IL),1678.08333333333,170.0,0.101306053533297,Municipal
+SD,Watertown Municipal Utilities,11633.1666666667,1178.0,0.101262195733463,Municipal
+GA,City of Adel- (GA),2937.0,295.0,0.100442628532516,Municipal
+MN,City Of Owatonna - (MN),12188.3333333333,1222.0,0.100259811294954,Municipal
+TN,City of Elizabethton - (TN),24509.0,2410.0,0.0983312252641887,Municipal
+KY,City of Bardstown - (KY),4668.25,458.0,0.0981095699673325,Municipal
+OH,City of Wapakoneta - (OH),5577.91666666667,543.0,0.097348173601255,Municipal
+IL,City of Springfield - (IL),58444.0833333333,5594.0,0.0957154202948973,Municipal
+CA,City Of Azusa,23539.3333333333,2231.0,0.0947775354725424,Municipal
+KY,City of Bowling Green - (KY),28438.6666666667,2695.0,0.0947653429602888,Municipal
+VA,Town of Bedford - (VA),5948.66666666667,560.0,0.094138742575367,Municipal
+KS,City of Chanute (KS),4553.0,426.0,0.0935646826268395,Municipal
+KY,Madisonville Municipal Utils,6915.66666666667,646.0,0.0934110955800839,Municipal
+MN,City Of Elk River,5038.08333333333,468.0,0.0928924690275733,Municipal
+CT,City Of Norwich - (CT),18868.3333333333,1748.0,0.0926419927568236,Municipal
+TN,City of Newport - (TN),24081.25,2220.0,0.0921879055281599,Municipal
+MA,City of Chicopee - (MA),23198.25,2119.0,0.0913430970008514,Municipal
+KY,City of Mayfield Plant Board,4815.66666666667,439.0,0.0911607946286426,Municipal
+KY,City of Vanceburg,2600.91666666667,237.0,0.0911217199064432,Municipal
+MI,Wyandotte Municipal Serv Comm - (MI),11794.4166666667,1073.0,0.0909752495884352,Municipal
+KS,City of Neodesha - (KS),1549.25,140.0,0.0903663062772309,Municipal
+KY,City of Paducah - (KY),18857.5833333333,1701.0,0.0902024384531422,Municipal
+IN,City of Bluffton - (IN),4989.25,448.0,0.089793055068397,Municipal
+AL,City Of Athens - (AL),71737.1666666667,6423.0,0.0895351781851806,Municipal
+SC,Town of Winnsboro - (SC),2663.08333333333,236.0,0.0886190818912914,Municipal
+MD,Hagerstown Light Department,15076.1666666667,1331.0,0.0882850415114364,Municipal
+SD,City of Madison - (SD),2803.58333333333,247.0,0.0881015367238356,Municipal
+WA,City of Richland - (WA),29002.4166666667,2532.0,0.0873030695717886,Municipal
+GA,City of Buford,4062.58333333333,353.0,0.0868905253225575,Municipal
+NE,City of Falls City - (NE),2096.91666666667,177.0,0.0844096490879466,Municipal
+WI,Wisconsin Rapids W W & L Comm,12353.4166666667,1041.0,0.0842681849151045,Municipal
+TX,City of Floresville,17915.4166666667,1497.0,0.0835593180919599,Municipal
+MN,City Of Anoka,10776.6666666667,900.0,0.0835137643055985,Municipal
+WI,Hartford Electric,4117.16666666667,338.0,0.0820952920697891,Municipal
+IN,"Crawfordsville Elec, Lgt & Pwr",9640.58333333333,787.0,0.0816340643287491,Municipal
+KS,City of McPherson - (KS),7433.25,606.0,0.081525577641005,Municipal
+TN,City of Fayetteville,16607.1666666667,1327.0,0.0799052617845709,Municipal
+KY,Henderson City Utility Comm,12260.0833333333,974.0,0.0794448107340217,Municipal
+TN,Sevier County Electric System,35935.0,2837.0,0.0789481007374426,Municipal
+TN,Carroll County - (TN),12124.6666666667,956.0,0.0788475284543905,Municipal
+TN,Athens Utility Board,11612.4166666667,914.0,0.0787088533107521,Municipal
+NE,City of Fremont - (NE),13526.3333333333,1062.0,0.0785135168436876,Municipal
+MO,City Utilities of Springfield - (MO),104562.166666667,8131.0,0.0777623519022974,Municipal
+WI,Juneau Utility Comm,964.583333333333,74.0,0.0767170626349892,Municipal
+TX,City of College Station - (TX),52154.9166666667,3947.0,0.0756783876240495,Municipal
+AR,City Of Bentonville - (AR),28709.4166666667,2171.0,0.0756197879325308,Municipal
+MI,City of Sturgis - (MI),6094.0,460.0,0.0754840827042993,Municipal
+FL,City of Williston - (FL),1749.25,132.0,0.0754609118193511,Municipal
+NC,Town of Huntersville - (NC),8737.08333333333,658.0,0.0753111736372741,Municipal
+CO,City of Trinidad - (CO),4021.33333333333,302.0,0.0750994694960212,Municipal
+MI,City of Holland,26586.5,1996.0,0.0750756963120381,Municipal
+IN,City of Greenfield - (IN),11682.6666666667,872.0,0.0746404930381191,Municipal
+MN,Hutchinson Utilities Comm,6633.08333333333,493.0,0.0743244092114024,Municipal
+MO,City of Monroe City - (MO),1363.0,99.0,0.0726338958180484,Municipal
+OH,City of Celina - (OH),8118.25,588.0,0.0724294028885536,Municipal
+SD,City of Pierre - (SD),7469.66666666667,538.0,0.0720246329599714,Municipal
+OH,City of Hamilton - (OH),29890.5,2103.0,0.070356802328499,Municipal
+OH,City of Painesville - (OH),10832.0833333333,759.0,0.0700696234180867,Municipal
+UT,City of Murray - (UT),16902.6666666667,1178.0,0.0696931450658673,Municipal
+TX,Kerrville Public Utility Board,20206.5,1393.0,0.068938212951278,Municipal
+WI,City of Menasha - (WI),8609.0,590.0,0.0685329306539668,Municipal
+AZ,City Of Mesa - (AZ),18101.1666666667,1240.0,0.0685038717578057,Municipal
+VA,City of Manassas - (VA),13944.3333333333,952.0,0.0682714603303612,Municipal
+CO,City Of Longmont,42364.9166666667,2880.0,0.0679807781202607,Municipal
+UT,City Of St George,34071.5833333333,2271.0,0.0666537852902834,Municipal
+WI,Sun Prairie Utilities,18373.6666666667,1204.0,0.0655285644309791,Municipal
+CA,City Of Anaheim - (CA),108211.5,7046.0,0.0651132273372054,Municipal
+MN,City Of Moorhead - (MN),18437.6666666667,1198.0,0.0649756838356263,Municipal
+MN,City Of Alexandria - (MN),8729.41666666667,567.0,0.0649527937147385,Municipal
+IA,City Of Maquoketa - IA,2805.25,182.0,0.0648783530879601,Municipal
+MA,City of Peabody - (MA),22537.25,1456.0,0.0646041553428213,Municipal
+IL,City of Batavia - (IL),9984.5,641.0,0.064199509239321,Municipal
+MI,City of Grand Haven - (MI),13230.8333333333,841.0,0.0635636455249732,Municipal
+TX,Austin Energy,503869.416666667,31835.0,0.0631810523659156,Municipal
+CA,Alameda Municipal Power,33616.5,2112.0,0.0628262906608362,Municipal
+TN,Benton County,10603.75,660.0,0.0622421313214665,Municipal
+UT,City of Springville - (UT),11828.4166666667,736.0,0.0622230363319971,Municipal
+CA,City Of Pasadena - (CA),58556.0,3596.0,0.061411298585969,Municipal
+WI,Jefferson Utilities,4359.08333333333,265.0,0.060792597832113,Municipal
+TN,Loudon Utilities Board,12527.3333333333,755.0,0.0602682135064659,Municipal
+TN,Knoxville Utilities Board,189110.083333333,11198.0,0.0592141878561913,Municipal
+WI,Shawano Municipal Utilities,4932.25,291.0,0.0589994424451315,Municipal
+TN,City of Sweetwater,9791.75,574.0,0.058620777695509,Municipal
+MN,City Of Marshall - (MN),5856.66666666667,339.0,0.0578827546955037,Municipal
+UT,Lehi City Corporation,29374.8333333333,1668.0,0.0567833008981611,Municipal
+SC,City of Union - (SC),5793.58333333333,328.0,0.0566143578384132,Municipal
+MN,Shakopee Public Utilities Comm,18197.0,1021.0,0.0561081496950047,Municipal
+GA,Dalton Utilities,12177.0833333333,676.0,0.0555141146278871,Municipal
+MN,City Of Austin - (MN),10703.3333333333,588.0,0.0549361569604485,Municipal
+NE,Lincoln Electric System,134912.0,7382.0,0.0547171489563567,Municipal
+OH,City of Cleveland - (OH),73667.1666666667,3982.0,0.0540539317606442,Municipal
+WI,Waupun Utilities,3944.91666666667,210.0,0.0532330636473098,Municipal
+MN,New Ulm Public Utilities Comm,6522.0,346.0,0.0530512112848819,Municipal
+FL,City Of Homestead - (FL),24600.0,1297.0,0.0527235772357724,Municipal
+WI,City of Black River Falls,2900.33333333333,151.0,0.0520629812665211,Municipal
+NJ,City of Vineland - (NJ),22728.0833333333,1150.0,0.0505981953310332,Municipal
+WI,Oconto Falls Water & Light Comm,1673.91666666667,84.0,0.0501817095633992,Municipal
+WI,Manitowoc Public Utilities,15713.0,788.0,0.0501495576910838,Municipal
+OR,City of Springfield - (OR),29660.1666666667,1470.0,0.0495614207607285,Municipal
+OH,City of Bowling Green - (OH),13025.9166666667,636.0,0.0488257384317163,Municipal
+IL,City of Bushnell - (IL),1327.25,63.0,0.0474665662083255,Municipal
+MN,Hibbing Public Utilities Comm,6488.91666666667,305.0,0.0470032234451051,Municipal
+TN,City of Bristol - (TN),33963.4166666667,1578.0,0.0464617566450176,Municipal
+RI,Pascoag Utility District,4372.91666666667,196.0,0.0448213434969033,Municipal
+NV,City of Boulder City - (NV),8273.08333333333,363.0,0.043877232390181,Municipal
+IA,City of Brooklyn - (IA),696.333333333333,30.0,0.0430828147438966,Municipal
+NE,City of Central City,1493.16666666667,64.0,0.0428619265543029,Municipal
+IL,City of Naperville - (IL),63155.75,2670.0,0.0422764356372935,Municipal
+MA,City of Westfield - (MA),16200.0,684.0,0.0422222222222222,Municipal
+WI,Slinger Utilities,2552.5,107.0,0.0419196865817826,Municipal
+MO,City of Liberal - (MO),363.416666666667,15.0,0.0412749369410686,Municipal
+CA,City Of Burbank Water And Power,35614.1666666667,1450.0,0.0407141352926036,Municipal
+WI,New London Electric&Water Util,4163.16666666667,169.0,0.0405940990431963,Municipal
+CO,City Of Colorado Springs - (CO),244200.0,9871.0,0.0404217854217854,Municipal
+WI,City of Boscobel - (WI),1424.0,57.0,0.0400280898876405,Municipal
+IL,Rochelle Municipal Utilities,5854.0,234.0,0.0399726682610181,Municipal
+MN,City Of Chaska - (MN),10713.4166666667,428.0,0.0399499070480161,Municipal
+KY,City of Bardwell - (KY),375.833333333333,15.0,0.0399113082039911,Municipal
+OH,City of Dover - (OH),5869.41666666667,230.0,0.0391861769341076,Municipal
+OR,City of Eugene - (OR),118000.0,4567.0,0.0387033898305085,Municipal
+WI,Whitehall Electric Utility,964.0,37.0,0.0383817427385892,Municipal
+OH,City of Westerville - (OH),17924.3333333333,687.0,0.0383277853197701,Municipal
+IL,City of Peru - (IL),4844.33333333333,185.0,0.0381889492878277,Municipal
+WI,City of Sturgeon Bay - (WI),9613.58333333333,367.0,0.0381751514783769,Municipal
+LA,City of Kaplan - (LA),1790.5,68.0,0.0379782183747557,Municipal
+MO,City of Albany - (MO),820.833333333333,31.0,0.0377664974619289,Municipal
+OH,City of Orrville - (OH),7173.5,270.0,0.0376385307032829,Municipal
+MA,City of Taunton,34330.6666666667,1291.0,0.0376048625135933,Municipal
+OH,City of Lebanon - (OH),9839.41666666667,363.0,0.036892430953732,Municipal
+SD,City of Volga - (SD),1262.91666666667,46.0,0.0364236225668096,Municipal
+NY,Town of Massena - (NY),8156.25,297.0,0.0364137931034483,Municipal
+IA,City Of Ames - IA,24979.0833333333,899.0,0.0359901117268114,Municipal
+OR,City of Mcminnville - (OR),15026.1666666667,530.0,0.0352718036314429,Municipal
+WI,Village of Prairie Du Sac - (WI),1923.0,67.0,0.0348413936557462,Municipal
+OH,City of Cuyahoga Falls - (OH),23545.5833333333,804.0,0.0341465313735414,Municipal
+WA,City of Seattle - (WA),424079.083333333,14406.0,0.0339700790870571,Municipal
+ME,Houlton Water Company,3961.0,134.0,0.0338298409492552,Municipal
+WI,Village of Muscoda - (WI),1124.91666666667,38.0,0.0337802800207423,Municipal
+NE,City of Hastings - (NE),11667.1666666667,390.0,0.033427138836907,Municipal
+NE,City of Wisner (NE),781.416666666667,26.0,0.0332729017809534,Municipal
+IA,City of Bloomfield - (IA),1112.66666666667,37.0,0.0332534451767525,Municipal
+MI,City of Gladstone,2966.0,97.0,0.0327039784221173,Municipal
+UT,Nephi City Corporation,2973.25,95.0,0.0319515681493315,Municipal
+LA,Town of Vidalia - (LA),1873.91666666667,58.0,0.0309512162582826,Municipal
+CT,Town Of Wallingford - (CT),25078.75,775.0,0.0309026566316104,Municipal
+IL,Village of Greenup - (IL),757.833333333333,23.0,0.0303496811084231,Municipal
+WI,City of Columbus - (WI),2458.83333333333,72.0,0.0292821798956144,Municipal
+IA,Board Of Water Electric & Communications,10080.0,294.0,0.0291666666666667,Municipal
+CA,City Of Glendale - (CA),81077.4166666667,2344.0,0.0289106399336437,Municipal
+MN,City of Two Harbors- (MN),1870.08333333333,54.0,0.0288757185508667,Municipal
+IL,City of Geneva- (IL),8668.0,248.0,0.0286109829257037,Municipal
+CA,City Of Santa Clara - (CA),51728.1666666667,1415.0,0.0273545360522475,Municipal
+MN,Rochester Public Utilities,54944.4166666667,1475.0,0.0268453118530394,Municipal
+FL,"Utility Board Of The City Of Key West, FL",27040.5833333333,715.0,0.0264417372652834,Municipal
+WI,City of Westby,1255.5,33.0,0.026284348864994,Municipal
+MA,Town of North Attleborough - (MA),12596.0,329.0,0.0261194029850746,Municipal
+TX,City of Brady - (TX),2395.83333333333,62.0,0.0258782608695652,Municipal
+AK,Ketchikan Public Utilities,8016.66666666667,206.0,0.0256964656964657,Municipal
+SD,City of Brookings - (SD),10543.9166666667,270.0,0.0256071826566662,Municipal
+CT,Groton Dept Of Utilities - (CT),14499.0,371.0,0.0255879715842472,Municipal
+WI,Reedsburg Utility Comm,4772.33333333333,116.0,0.0243067681776909,Municipal
+DE,City Of Newark - (DE),13439.5833333333,324.0,0.0241078902495737,Municipal
+NC,Town of Tarboro - (NC),5565.16666666667,134.0,0.0240783444640771,Municipal
+IA,City of Sabula - (IA),380.416666666667,9.0,0.023658269441402,Municipal
+MI,Village of L'Anse - (MI),1117.0,25.0,0.0223813786929275,Municipal
+NE,City of Wahoo - (NE),2019.66666666667,45.0,0.0222809044396765,Municipal
+KS,City of Burlingame - (KS),675.0,15.0,0.0222222222222222,Municipal
+WA,City of Ellensburg - (WA),10993.0,244.0,0.0221959428727372,Municipal
+MN,City of Virginia - (MN),3982.5,87.0,0.0218455743879473,Municipal
+MO,City of Perry - (MO),457.833333333333,10.0,0.0218420094648708,Municipal
+WI,Village of Mt. Horeb - (WI),3601.41666666667,75.0,0.020825138255779,Municipal
+WI,City of Plymouth - (WI),8675.58333333333,177.0,0.0204020863150413,Municipal
+MN,City of Henning - (MN),547.0,11.0,0.020109689213894,Municipal
+FL,New Smyrna Beach City Of,31045.8333333333,624.0,0.020099315528117,Municipal
+NY,Village of Freeport - (NY),13384.0,269.0,0.0200986252241482,Municipal
+OR,City of Forest Grove,10312.4166666667,207.0,0.0200728894778948,Municipal
+MD,Easton Utilities Comm,8590.41666666667,171.0,0.0199059028956686,Municipal
+NY,City of Plattsburgh - (NY),8801.0,174.0,0.0197704806272015,Municipal
+WI,City of Stoughton - (WI),8133.91666666667,160.0,0.0196707203376807,Municipal
+WI,Two Rivers Water & Light,5494.33333333333,108.0,0.0196566159072984,Municipal
+IL,City of St Charles - (IL),14415.25,282.0,0.0195626159796049,Municipal
+MA,Town of Middleborough - (MA),14835.5,290.0,0.0195477065147787,Municipal
+MN,City Of Worthington - (MN),4661.91666666667,91.0,0.0195198684375168,Municipal
+WI,Florence Utility Comm,1426.0,27.0,0.0189340813464236,Municipal
+MO,City of Kirkwood - (MO),10232.0,192.0,0.0187646598905395,Municipal
+TN,City of Winchester - (TN),5737.08333333333,106.0,0.0184762873120779,Municipal
+IA,Cedar Falls Utilities,16049.25,284.0,0.0176955309438136,Municipal
+MA,Town of Hudson - (MA),13458.5,236.0,0.0175353865586804,Municipal
+VT,City Of Burlington Electric - Vt,17858.0833333333,308.0,0.0172470916531729,Municipal
+WI,City of Kaukauna (WI),14537.75,248.0,0.0170590359581091,Municipal
+WI,Oconomowoc Utilities,9877.91666666667,160.0,0.0161977475007382,Municipal
+MI,City of Marquette - (MI),15014.1666666667,242.0,0.016118110673253,Municipal
+TN,City of Lenoir - (TN),70892.0,1140.0,0.016080798961801,Municipal
+TN,City of Clarksville - (TN),73520.0,1176.0,0.0159956474428727,Municipal
+TN,Johnson City - (TN),40000.0,636.0,0.0159,Municipal
+IA,City of Fairbank - (IA),505.416666666667,8.0,0.0158285243198681,Municipal
+NM,Los Alamos County,8030.58333333333,127.0,0.0158145423225793,Municipal
+GA,Fitzgerald Wtr Lgt & Bond Comm,5280.0,83.0,0.015719696969697,Municipal
+IN,City of Huntingburg - (IN),3706.0,58.0,0.0156502968159741,Municipal
+MI,City of Negaunee,2266.16666666667,35.0,0.0154445833639773,Municipal
+IN,City of Jasper - (IN),8139.58333333333,124.0,0.0152341950345534,Municipal
+WI,City of Marshfield - (WI),11927.4166666667,179.0,0.0150074408400813,Municipal
+CT,Bozrah Light & Power Company,2873.0,42.0,0.0146188652975983,Municipal
+MN,City Of Lake Crystal - Mn,1245.83333333333,18.0,0.0144481605351171,Municipal
+IA,City of Osage - (IA),2250.33333333333,31.0,0.0137757369278625,Municipal
+MN,Willmar Municipal Utilities (MN),8662.0,115.0,0.0132763795890095,Municipal
+IA,City of Alton,453.333333333333,6.0,0.0132352941176471,Municipal
+NE,City of Stromsburg - (NE),685.416666666667,9.0,0.0131306990881459,Municipal
+AR,City Of Benton - (AR),12929.3333333333,169.0,0.0130710529029597,Municipal
+IA,City of Manning - (IA),690.166666666667,9.0,0.0130403284230862,Municipal
+NC,Town of Apex- (NC),30684.4166666667,397.0,0.0129381635086214,Municipal
+TN,City of Rockwood - (TN),15368.4166666667,198.0,0.0128835653206522,Municipal
+IA,Rock Rapids Municipal Utility - (IA),1180.58333333333,15.0,0.0127055833980377,Municipal
+WI,Brodhead Water & Lighting Comm,1899.41666666667,24.0,0.0126354582547273,Municipal
+MI,City of Zeeland - (MI),5989.33333333333,74.0,0.0123552983081033,Municipal
+CA,Pittsburg Power Company,593.083333333333,7.0,0.0118027258676409,Municipal
+IA,City Of Independence - IA,2736.91666666667,31.0,0.0113266144992845,Municipal
+WI,City of New Richmond,4976.91666666667,56.0,0.0112519464862783,Municipal
+WA,City of Port Angeles - (WA),11047.5833333333,124.0,0.0112241742160804,Municipal
+OH,City of Wadsworth - (OH),13812.5,153.0,0.0110769230769231,Municipal
+MN,City of Round Lake - (MN),196.0,2.0,0.0102040816326531,Municipal
+MA,Town of Shrewsbury - (MA),15193.0,150.0,0.00987296781412493,Municipal
+MA,Town of Mansfield - (MA),10539.0,103.0,0.00977322326596451,Municipal
+WI,City of New Holstein - (WI),2254.0,22.0,0.00976042590949423,Municipal
+NE,City of Superior - (NE),1043.41666666667,10.0,0.00958389904959668,Municipal
+IA,City of Wall Lake - (IA),420.0,4.0,0.00952380952380952,Municipal
+IA,City of Remsen - (IA),872.5,8.0,0.00916905444126074,Municipal
+WI,Village of New Glarus - (WI),1101.0,10.0,0.00908265213442325,Municipal
+IA,City of Mapleton- (IA),582.916666666667,5.0,0.00857755539671194,Municipal
+KS,City of Moundridge - (KS),1060.33333333333,9.0,0.00848789688777114,Municipal
+MN,City of Randall - (MN),359.0,3.0,0.00835654596100279,Municipal
+WI,City of Richland Center - (WI),2336.83333333333,19.0,0.00813066115113045,Municipal
+IA,City of Sanborn - (IA),621.75,5.0,0.00804181745074387,Municipal
+WI,Algoma Utility Comm,1649.16666666667,13.0,0.00788276907529055,Municipal
+KS,City of Altamont - (KS),520.0,4.0,0.00769230769230769,Municipal
+WI,Cedarburg Light & Water Comm,6119.91666666667,47.0,0.00767984313511894,Municipal
+IA,Harlan Municipal Utilities - (IA),2888.75,22.0,0.00761575075724795,Municipal
+SC,City of Laurens - (SC),5512.58333333333,41.0,0.00743752928905081,Municipal
+WI,City of Lodi - (WI),1488.0,11.0,0.00739247311827957,Municipal
+NY,Village of Fairport - (NY),17996.0,125.0,0.00694598799733274,Municipal
+MA,Town of Littleton - (MA),6698.08333333333,46.0,0.0068676362641054,Municipal
+WI,City of River Falls,6438.58333333333,44.0,0.00683380143147432,Municipal
+NE,City of Scribner - (NE),443.25,3.0,0.00676818950930626,Municipal
+NE,City of Stuart - (NE),443.5,3.0,0.00676437429537768,Municipal
+MI,City of Norway,2084.08333333333,14.0,0.00671758167059858,Municipal
+MA,Town of Braintree - (MA),13976.3333333333,88.0,0.00629635812921844,Municipal
+IA,City of Hawarden - (IA),1026.0,6.0,0.00584795321637427,Municipal
+MA,Town of Danvers,11529.0833333333,65.0,0.0056379157059321,Municipal
+OK,City of Granite - (OK),546.333333333333,3.0,0.00549115314215985,Municipal
+IA,City of Traer - (IA),1101.66666666667,6.0,0.00544629349470499,Municipal
+NE,City of Pender - (NE),700.0,3.0,0.00428571428571429,Municipal
+WI,City of Cuba City,984.166666666667,4.0,0.00406435224386113,Municipal
+MI,City of Crystal Falls,1307.66666666667,5.0,0.00382360438439969,Municipal
+CA,City Of Palo Alto - (CA),29459.4166666667,105.0,0.00356422536087782,Municipal
+MA,Town of Wakefield - (MA),10470.0,31.0,0.00296084049665712,Municipal
+IA,Cascade Mun Util - IA,1155.58333333333,3.0,0.00259609144010961,Municipal
+IA,City of Lamoni - (IA),890.166666666667,2.0,0.00224677026774012,Municipal
+WI,City of Eagle River - (WI),1051.83333333333,2.0,0.00190144192679449,Municipal
+CA,Los Angeles Department Of Water & Power,1440137.83333333,940.0,0.000652715301440476,Municipal
+KY,South Kentucky Rural E C C,64563.0,55643.0,0.861840372969038,Cooperative
+IN,Jackson County Rural E M C - (IN),20677.5,16115.0,0.779349534518196,Cooperative
+AR,"South Central Ark El Coop, Inc",6023.0,4602.0,0.76407106093309,Cooperative
+NC,Lumbee River Elec Member Corp,63037.75,47637.0,0.755690042871137,Cooperative
+MO,Intercounty Electric Coop Assn - (MO),29629.75,20782.0,0.701389650604544,Cooperative
+SC,"Lynches River Elec Coop, Inc",21207.3333333333,11563.0,0.545235924680142,Cooperative
+MI,Midwest Energy Cooperative - (MI),29260.5,15828.0,0.540934023683806,Cooperative
+ND,"North Central Elec Coop, Inc - (ND)",6060.66666666667,3024.0,0.498955010449895,Cooperative
+MO,White River Valley El Coop Inc,39216.3333333333,16772.0,0.427678943297436,Cooperative
+TN,Appalachian Electric Coop,43954.4166666667,17597.0,0.400346571163687,Cooperative
+MS,Tallahatchie Valley E P A,21521.25,7458.0,0.346541209269908,Cooperative
+OK,"Cotton Electric Coop, Inc",19552.0833333333,6737.0,0.344566862013852,Cooperative
+NE,"High West Energy, Inc",44.0,15.0,0.340909090909091,Cooperative
+GA,Mitchell Electric Member Corp,16869.0,5610.0,0.332562688956073,Cooperative
+MS,Singing River Elec Cooperative,77513.1666666667,25202.0,0.325131859318524,Cooperative
+TN,Southwest Tennessee E M C,43661.8333333333,13030.0,0.298429978890793,Cooperative
+IN,"Southern Indiana R E C, Inc",8145.33333333333,2384.0,0.292682926829268,Cooperative
+NC,Pee Dee Electric Member Corp,19479.8333333333,5536.0,0.284191343183977,Cooperative
+MO,West Central Electric Coop Inc - (MO),15144.75,4256.0,0.281021476089074,Cooperative
+OK,East Central Oklahoma Elec Coop Inc,33049.4166666667,9180.0,0.277765870804578,Cooperative
+FL,"Sumter Electric Coop, Inc",247294.5,68617.0,0.277470788877229,Cooperative
+FL,"Clay Electric Cooperative, Inc",171256.583333333,47325.0,0.276339741683896,Cooperative
+WA,Lakeview Light & Power,10456.9166666667,2684.0,0.256672218547532,Cooperative
+FL,"Talquin Electric Coop, Inc",57277.5,14633.0,0.255475535768845,Cooperative
+TX,Magic Valley Electric Coop Inc,124073.5,31381.0,0.252922662776499,Cooperative
+IN,Clark County Rural E M C - (IN),27112.6666666667,6463.0,0.238375666969928,Cooperative
+CO,"High West Energy, Inc",21.0,5.0,0.238095238095238,Cooperative
+SD,West River Electric Assn Inc,14419.5833333333,3387.0,0.234888895310197,Cooperative
+KY,Warren Rural Elec Coop Corp,60839.0,14153.0,0.232630385114811,Cooperative
+TX,Sam Houston Electric Coop Inc,91575.6666666667,21200.0,0.23150254616401,Cooperative
+TX,Trinity Valley Elec Coop Inc,78792.0833333333,17865.0,0.226735977070454,Cooperative
+AL,Pea River Electric Coop,14936.8333333333,3284.0,0.219859184789279,Cooperative
+FL,"Choctawhatche Elec Coop, Inc",56763.8333333333,12473.0,0.219734983836539,Cooperative
+TX,Upshur Rural Elec Coop Corp,44151.0,9701.0,0.219723222577065,Cooperative
+NM,"Lea County Electric Coop, Inc - (NM)",5026.66666666667,1084.0,0.215649867374005,Cooperative
+GA,Jackson Electric Member Corp - (GA),203591.833333333,42893.0,0.210681338724294,Cooperative
+TN,Cumberland Elec Member Corp,100597.0,21120.0,0.209946618686442,Cooperative
+NV,"Valley Electric Assn, Inc",22368.25,4688.0,0.209582779162429,Cooperative
+LA,Southwest Louisiana E M C,108367.916666667,22374.0,0.206463321324346,Cooperative
+IN,Midwest Energy Cooperative - (MI),305.666666666667,63.0,0.206106870229008,Cooperative
+GA,Diverse Power Incorporated,32234.3333333333,6630.0,0.205681312885846,Cooperative
+TN,Pickwick Electric Coop,16333.0,3339.0,0.204432743525378,Cooperative
+AZ,"Mohave Electric Cooperative, Inc.",40606.25,8054.0,0.198343851008158,Cooperative
+AR,First Electric Coop Corp,102476.916666667,20217.0,0.197283453265491,Cooperative
+KS,Southern Pioneer Electric Company,12796.5833333333,2495.0,0.194973918819477,Cooperative
+MO,Boone Electric Coop,27998.9166666667,5456.0,0.194864682264492,Cooperative
+WA,Modern Electric Water Company,9036.16666666667,1756.0,0.194330191637309,Cooperative
+AZ,Graham County Electric Coop Inc,7247.33333333333,1405.0,0.193864409897893,Cooperative
+TN,Volunteer Electric Coop,113000.0,21720.0,0.192212389380531,Cooperative
+NC,Piedmont Electric Member Corp,30111.75,5686.0,0.188829941800128,Cooperative
+OH,Midwest Energy Cooperative - (MI),865.333333333333,161.0,0.186055469953775,Cooperative
+GA,Carroll Electric Member Corp - (GA),47605.9166666667,8624.0,0.181153953202596,Cooperative
+SC,"Black River Electric Coop, Inc - (SC)",34840.6666666667,6299.0,0.180794473890664,Cooperative
+AK,Kodiak Electric Assn Inc,4771.5,857.0,0.179608089699256,Cooperative
+FL,"Peace River Electric Coop, Inc",57580.0833333333,10333.0,0.179454412043516,Cooperative
+OR,"Midstate Electric Coop, Inc",18603.5833333333,3318.0,0.17835273670395,Cooperative
+AL,Diverse Power Incorporated,685.166666666667,122.0,0.17805886645585,Cooperative
+AK,"Alaska Village Elec Coop, Inc",11517.4166666667,2034.0,0.17660210261271,Cooperative
+KY,"Cumberland Valley Electric, Inc.",22478.3333333333,3963.0,0.176303106695336,Cooperative
+AR,Craighead Electric Coop Corp,24673.6666666667,4332.0,0.175571797192689,Cooperative
+TX,Mid-South Electric Coop Assn,35818.8333333333,6218.0,0.17359582714866,Cooperative
+GA,Greystone Power Corporation,139027.833333333,24006.0,0.172670460471344,Cooperative
+IN,Johnson County Rural E M C,27948.25,4674.0,0.16723766246545,Cooperative
+GA,Canoochee Electric Member Corp,20119.25,3362.0,0.167103644519552,Cooperative
+AR,Clay County Electric Coop Corp - (AR),10559.0,1724.0,0.163273037219434,Cooperative
+GA,Sumter Electric Member Corp,15086.0,2396.0,0.158822749569137,Cooperative
+TX,"Farmers Electric Coop, Inc - (TX)",81767.9166666667,12979.0,0.158729738130787,Cooperative
+TX,Southwest Arkansas E C C,810.583333333333,128.0,0.157910969466434,Cooperative
+SC,Blue Ridge Electric Coop Inc - (SC),74144.0833333333,11646.0,0.157072546809197,Cooperative
+WA,Elmhurst Mutual Power & Light Co,16159.3333333333,2538.0,0.157060934857049,Cooperative
+NV,Raft Rural Elec Coop Inc,1561.41666666667,245.0,0.156908790094465,Cooperative
+GA,Planters Electric Member Corp,18196.5833333333,2836.0,0.155853434023787,Cooperative
+NC,EnergyUnited Elec Member Corp,121250.833333333,18476.0,0.152378334169525,Cooperative
+TX,"Deaf Smith Electric Coop, Inc",2627.08333333333,388.0,0.147692307692308,Cooperative
+AL,Tallapoosa River Elec Coop Inc,30287.8333333333,4471.0,0.147617029940515,Cooperative
+SD,Sioux Valley SW Elec Coop,25421.25,3738.0,0.147042336627821,Cooperative
+TX,"Lea County Electric Coop, Inc - (NM)",1946.83333333333,285.0,0.146391576063693,Cooperative
+OK,Northeast Oklahoma Electric Co,30532.6666666667,4373.0,0.143223651171423,Cooperative
+SC,Berkeley Electric Coop Inc,112886.416666667,16041.0,0.142098584343998,Cooperative
+CO,"Mountain View Elec Assn, Inc",56420.5833333333,8010.0,0.141969464453723,Cooperative
+MO,"Southwest Electric Coop, Inc",44495.5,6198.0,0.139294984886112,Cooperative
+KS,"Pioneer Electric Coop, Inc - (KS)",5059.91666666667,703.0,0.13893509445149,Cooperative
+ID,Kootenai Electric Cooperative,29324.8333333333,4038.0,0.137698992321639,Cooperative
+AL,"South Alabama Elec Coop, Inc",17719.1666666667,2430.0,0.137139632224992,Cooperative
+VA,Prince George Electric Coop,11441.0833333333,1564.0,0.13670034160518,Cooperative
+NM,"Central New Mexico El Coop, Inc",19711.3333333333,2671.0,0.135505800385565,Cooperative
+OR,Salem Electric - (OR),20844.75,2808.0,0.134710178822006,Cooperative
+ND,Roughrider Electric Cooperativ,11182.9166666667,1506.0,0.134669697082604,Cooperative
+AL,Coosa Valley Electric Coop Inc,18425.75,2472.0,0.134160074895187,Cooperative
+SC,"Fairfield Electric Coop, Inc",33985.0,4509.0,0.132676180667942,Cooperative
+MS,North East Mississippi EPA,26087.4166666667,3435.0,0.131672677440273,Cooperative
+IN,Southeastern Indiana R E M C,28526.5833333333,3755.0,0.131631606776136,Cooperative
+AR,Southwest Arkansas E C C,16875.4166666667,2212.0,0.131078244981605,Cooperative
+LA,"Jefferson Davis Elec Coop, Inc",7354.33333333333,949.0,0.129039568508362,Cooperative
+KY,Clark Energy Coop Inc - (KY),28177.5,3610.0,0.128116404933014,Cooperative
+FL,"Gulf Coast Electric Coop, Inc",21178.9166666667,2709.0,0.127910225184637,Cooperative
+MS,Southern Pine Electric Cooperative,65010.9166666667,8263.0,0.127101730350415,Cooperative
+CO,"United Power, Inc",114019.333333333,14274.0,0.125189295382654,Cooperative
+TN,Middle Tennessee E M C,303851.083333333,37907.0,0.124755191207974,Cooperative
+TX,"Lamb County Electric Coop, Inc",2225.75,275.0,0.123553858250028,Cooperative
+AR,Arkansas Valley Elec Coop Corp,58565.8333333333,7215.0,0.123194695428222,Cooperative
+GA,Cobb Electric Membership Corp,200600.75,24214.0,0.12070742507194,Cooperative
+AL,Dixie Electric Coop,21093.75,2541.0,0.120462222222222,Cooperative
+TX,"Bandera Electric Coop, Inc",33416.0,4006.0,0.119882690926502,Cooperative
+TX,"Medina Electric Coop, Inc",22735.9166666667,2723.0,0.119766448827296,Cooperative
+MO,"Laclede Electric Coop, Inc",34909.8333333333,4146.0,0.118763099222282,Cooperative
+GA,Central Georgia Electric Member Corp,56054.25,6578.0,0.11735060231829,Cooperative
+SD,"Central Electric Coop, Inc - (SD)",5536.16666666667,649.0,0.117229129662522,Cooperative
+TN,Meriwether Lewis Electric Coop,30212.9166666667,3535.0,0.117002937485347,Cooperative
+OK,"Canadian Valley Elec Coop, Inc",24311.3333333333,2839.0,0.11677681191214,Cooperative
+KS,Victory Electric Coop Assn Inc,14230.25,1661.0,0.116723177737566,Cooperative
+LA,"Beauregard Electric Coop, Inc",44424.3333333333,5024.0,0.113091173756125,Cooperative
+MO,Webster Electric Coop,18676.6666666667,2046.0,0.109548456184187,Cooperative
+OR,Umatilla Electric Coop Assn,12619.8333333333,1378.0,0.10919320117804,Cooperative
+SC,Mid-Carolina Electric Coop Inc,56463.0,6163.0,0.109151125515825,Cooperative
+ND,Northern Plains Electric Coop,10344.6666666667,1116.0,0.107881678159438,Cooperative
+LA,Dixie Electric Membership Corp,110020.166666667,11812.0,0.107362135123712,Cooperative
+OK,"Rural Electric Coop, Inc - (OK)",6504.08333333333,686.0,0.105472203359428,Cooperative
+NC,Jones-Onslow Elec Member Corp,78924.25,8288.0,0.10501208437204,Cooperative
+TX,"Bluebonnet Electric Coop, Inc",95238.0,9982.0,0.104811104811105,Cooperative
+CO,Delta Montrose Electric Assn,32575.25,3411.0,0.104711398991566,Cooperative
+OK,CKenergy Electric Cooperative,15976.5833333333,1654.0,0.103526515368847,Cooperative
+AR,Ouachita Electric Coop Corp,8384.75,868.0,0.103521273741018,Cooperative
+TX,Bailey County Elec Coop Assn,1455.0,150.0,0.103092783505155,Cooperative
+KY,Owen Electric Coop Inc,63616.1666666667,6351.0,0.0998331137001339,Cooperative
+KY,Fleming-Mason Energy Coop Inc,23887.0833333333,2371.0,0.0992586648990912,Cooperative
+KY,West Kentucky Rural E C C,32055.5833333333,3125.0,0.0974869172557043,Cooperative
+MO,Macon Electric Coop,9993.0,960.0,0.0960672470729511,Cooperative
+TX,"HILCO Electric Cooperative, Inc.",26333.1666666667,2514.0,0.0954689586642953,Cooperative
+FL,"West Florida El Coop Assn, Inc",29884.3333333333,2800.0,0.093694577984005,Cooperative
+AR,"North Arkansas Elec Coop, Inc",36354.6666666667,3398.0,0.0934680554536786,Cooperative
+SD,Southeastern Electric Coop Inc - (SD),20159.9166666667,1879.0,0.0932047503503239,Cooperative
+KY,Jackson Purchase Energy Corporation,23979.1666666667,2218.0,0.0924969591659427,Cooperative
+MO,Cuivre River Electric Coop Inc,72974.0,6739.0,0.092347959547236,Cooperative
+OH,Butler Rural Electric Coop Inc - (OH),11780.9166666667,1081.0,0.0917585643448798,Cooperative
+KY,"Shelby Energy Co-Op, Inc",13891.0,1273.0,0.0916420704052984,Cooperative
+GA,Oconee Electric Member Corp,10676.1666666667,972.0,0.0910439140140812,Cooperative
+FL,"Lee County Electric Coop, Inc",227665.5,20633.0,0.0906285756954831,Cooperative
+TX,"Rita Blanca Electric Coop, Inc",2917.0,263.0,0.0901611244429208,Cooperative
+NC,South River Elec Member Corp,41496.1666666667,3693.0,0.0889961723372038,Cooperative
+GA,Washington Elec Member Corp,15199.8333333333,1343.0,0.0883562319762278,Cooperative
+MS,Yazoo Valley Elec Power Assn,9488.0,838.0,0.0883220910623946,Cooperative
+TX,Hamilton County Elec Coop Assn,14015.3333333333,1223.0,0.0872615706607049,Cooperative
+IN,Harrison County Rural E M C,23220.9166666667,2018.0,0.0869044073051954,Cooperative
+TX,Taylor Electric Coop Inc - (TX),17925.1666666667,1554.0,0.0866937545908453,Cooperative
+OH,"Buckeye Rural Elec Coop, Inc",16087.6666666667,1392.0,0.0865259101174813,Cooperative
+IN,South Central Indiana Remc,35779.3333333333,3072.0,0.0858596210102666,Cooperative
+OH,South Central Power Company,130770.166666667,11018.0,0.0842546911183871,Cooperative
+NM,Otero County Electric Coop Inc,16434.0,1383.0,0.0841548010222709,Cooperative
+KS,Western Coop Electric Assn Inc,5758.08333333333,476.0,0.0826663965150441,Cooperative
+OK,"Indian Electric Coop, Inc",14842.0,1221.0,0.0822665408974532,Cooperative
+KY,Licking Valley Rural E C C,16233.6666666667,1328.0,0.081805301739184,Cooperative
+KY,Jackson Energy Coop Corp - (KY),48398.5833333333,3958.0,0.08177925318062,Cooperative
+IN,Ninestar Connect,18897.4166666667,1544.0,0.0817042893869973,Cooperative
+OK,Southwest Arkansas E C C,134.916666666667,11.0,0.0815318097591106,Cooperative
+TX,Wise Electric Coop Inc,26728.5,2160.0,0.0808126157472361,Cooperative
+NM,"Central Valley Elec Coop, Inc",3883.58333333333,313.0,0.0805956698066648,Cooperative
+KY,Kenergy Corp,59189.4166666667,4760.0,0.0804197822527394,Cooperative
+TX,"Bartlett Electric Coop, Inc",11518.9166666667,924.0,0.0802158767823942,Cooperative
+NM,Continental Divide El Coop Inc,20441.9166666667,1638.0,0.0801294725298916,Cooperative
+MS,Tishomingo County E P A,10969.0833333333,877.0,0.079951986264425,Cooperative
+AR,Woodruff Electric Coop Corp,12124.6666666667,956.0,0.0788475284543905,Cooperative
+TX,"Pedernales Electric Coop, Inc",381493.75,29867.0,0.0782896181130097,Cooperative
+TX,Nueces Electric Cooperative,47693.0,3717.0,0.0779359654456629,Cooperative
+TX,Cooke County Elec Coop Assn,18274.75,1423.0,0.077867002284573,Cooperative
+TX,Houston County Elec Coop Inc,21752.1666666667,1687.0,0.0775554925562971,Cooperative
+AR,Petit Jean Electric Coop Corp,21415.0833333333,1654.0,0.0772352819858278,Cooperative
+NC,Rutherford Elec Member Corp,65660.6666666667,5017.0,0.0764079966697465,Cooperative
+MS,Delta Electric Power Assn,28934.4166666667,2175.0,0.0751699965151074,Cooperative
+TX,San Patricio Electric Coop Inc,7568.0,563.0,0.074392177589852,Cooperative
+TX,Comanche County Elec Coop Assn,19569.25,1453.0,0.0742491408715204,Cooperative
+CO,Core Electric Cooperative,165007.583333333,11857.0,0.0718573035279692,Cooperative
+MN,"Wild Rice Electric Coop, Inc",7789.41666666667,559.0,0.0717640388133472,Cooperative
+AL,Joe Wheeler Elec Member Corp,36747.9166666667,2624.0,0.0714054084698679,Cooperative
+GA,Tri-County Elec Member Corp Ga,21056.0,1502.0,0.0713335866261398,Cooperative
+NC,Edgecombe-Martin County E M C,10623.3333333333,748.0,0.0704110448697835,Cooperative
+ID,Inland Power & Light Company,1771.66666666667,124.0,0.0699905926622766,Cooperative
+VA,"Southside Electric Coop, Inc",56734.8333333333,3968.0,0.0699393964319392,Cooperative
+MO,Ozark Border Electric Coop,40896.9166666667,2843.0,0.0695162430745594,Cooperative
+KY,Farmers Rural Electric Coop Corp - (KY),24837.8333333333,1702.0,0.068524495561207,Cooperative
+TX,"Denton County Elec Coop, Inc",317096.916666667,21594.0,0.0680990538381667,Cooperative
+MS,Central Electric Power Assn - (MS),38826.0833333333,2608.0,0.0671713388551081,Cooperative
+AL,Baldwin County El Member Corp,81881.5833333333,5488.0,0.0670236184571419,Cooperative
+MO,Black River Electric Coop - (MO),18896.3333333333,1265.0,0.0669442043429942,Cooperative
+MN,Sioux Valley SW Elec Coop,3894.5,257.0,0.0659904994222622,Cooperative
+AL,Clarke-Washington E M C,20513.6666666667,1344.0,0.0655172974114818,Cooperative
+KY,Nolin Rural Electric Coop Corp,32951.4166666667,2157.0,0.0654600080421429,Cooperative
+NC,Tri-County Elec Member Corp (NC),26981.25,1759.0,0.0651934213574241,Cooperative
+FL,Withlacoochee River Elec Coop,255748.75,16120.0,0.063030611097806,Cooperative
+IN,Decatur County Rural E M C,8070.91666666667,504.0,0.0624464383434348,Cooperative
+CO,Grand Valley Power,17277.0833333333,1071.0,0.061989629808272,Cooperative
+NC,Randolph Electric Member Corp,25596.0,1579.0,0.061689326457259,Cooperative
+TX,"Jackson Electric Coop, Inc - (TX)",15652.5,962.0,0.0614598306979716,Cooperative
+ND,Mountrail-Williams Elec Coop,7830.25,474.0,0.0605344656939434,Cooperative
+AR,Carroll Electric Coop Corp - (AR),105971.916666667,6313.0,0.0595723867093719,Cooperative
+SC,"Laurens Electric Coop, Inc",58099.3333333333,3405.0,0.058606524458112,Cooperative
+GA,Okefenoke Rural El Member Corp,18918.6666666667,1107.0,0.0585136373246881,Cooperative
+MD,"Choptank Electric Cooperative, Inc",50558.0833333333,2958.0,0.058506964761652,Cooperative
+NC,Brunswick Electric Member Corp,114831.0,6709.0,0.0584249897675715,Cooperative
+AL,"Wiregrass Electric Coop, Inc",20447.75,1194.0,0.0583927326967515,Cooperative
+UT,Raft Rural Elec Coop Inc,377.5,22.0,0.0582781456953642,Cooperative
+WA,Inland Power & Light Company,34130.5,1975.0,0.0578661314659908,Cooperative
+FL,"Central Florida Elec Coop, Inc",32583.1666666667,1874.0,0.0575143606872669,Cooperative
+VA,Rappahannock Electric Coop,167258.916666667,9578.0,0.0572645105617189,Cooperative
+ID,Raft Rural Elec Coop Inc,1383.91666666667,78.0,0.0563617751550551,Cooperative
+NC,Wake Electric Membership Corp,53167.1666666667,2981.0,0.0560684382278537,Cooperative
+IN,Noble County R E M C,9882.66666666667,550.0,0.0556529951430113,Cooperative
+NM,"Jemez Mountains Elec Coop, Inc",31675.75,1751.0,0.055278880531637,Cooperative
+LA,"Concordia Electric Coop, Inc",9193.66666666667,504.0,0.0548203473405605,Cooperative
+AK,Golden Valley Elec Assn Inc,40674.5,2228.0,0.0547763340667986,Cooperative
+OK,Oklahoma Electric Coop Inc,64245.75,3519.0,0.0547740512018305,Cooperative
+TX,Concho Valley Elec Coop Inc,8369.66666666667,458.0,0.0547214146322036,Cooperative
+TX,"Victoria Electric Coop, Inc",21500.25,1176.0,0.0546970384065302,Cooperative
+KS,Prairie Land Electric Coop Inc,13110.0833333333,712.0,0.0543093420458807,Cooperative
+CO,Y-W Electric Assn Inc,3446.41666666667,187.0,0.0542592547815364,Cooperative
+TX,Lamar County Elec Coop Assn,12869.5833333333,693.0,0.0538478971735682,Cooperative
+AL,"Southern Pine Elec Coop, Inc",20605.4166666667,1109.0,0.0538207995470447,Cooperative
+KY,Big Sandy Rural Elec Coop Corp,12607.0,670.0,0.053145078131197,Cooperative
+MO,Citizens Electric Corporation - (MO),24826.4166666667,1318.0,0.0530886119288258,Cooperative
+CO,Highline Electric Assn,5145.41666666667,273.0,0.0530569276864523,Cooperative
+KS,Freestate Electric Coop,15345.3333333333,813.0,0.0529802763055,Cooperative
+MO,"New-Mac Electric Coop, Inc",18770.3333333333,981.0,0.0522633233293673,Cooperative
+ND,McKenzie Electric Coop Inc,13576.25,707.0,0.0520762360740263,Cooperative
+TX,"Lyntegar Electric Coop, Inc",4860.91666666667,252.0,0.0518420736829473,Cooperative
+KY,Blue Grass Energy Coop Corp,60641.4166666667,3141.0,0.0517962833432047,Cooperative
+MO,Three Rivers Electric Coop,22446.1666666667,1161.0,0.0517237538703713,Cooperative
+FL,Suwannee Valley Elec Coop Inc,25814.3333333333,1328.0,0.0514442880570226,Cooperative
+SC,Aiken Electric Coop Inc,34239.5,1751.0,0.0511397654755473,Cooperative
+ME,Eastern Maine Electric Coop,13213.3333333333,653.0,0.0494197780020182,Cooperative
+KS,CMS Electric Coop Inc,732.0,36.0,0.0491803278688525,Cooperative
+TX,"Wood County Electric Coop, Inc",41521.1666666667,2031.0,0.04891481051833,Cooperative
+IN,Jasper County Rural E M C,7718.0,376.0,0.0487172842705364,Cooperative
+MO,Callaway Electric Cooperative,12648.0,614.0,0.0485452245414295,Cooperative
+MI,Cherryland Electric Coop Inc,33808.0833333333,1631.0,0.0482429004897744,Cooperative
+KS,Midwest Energy Inc,29812.8333333333,1430.0,0.04796592071647,Cooperative
+MS,Coast Electric Power Assn - (MS),82505.0,3949.0,0.0478637658323738,Cooperative
+KY,Meade County Rural E C C,29232.3333333333,1383.0,0.047310626361221,Cooperative
+KY,Inter County Energy Coop Corp,26655.0,1260.0,0.0472706809229038,Cooperative
+AK,"Barrow Utils & Elec Coop, Inc",997.5,47.0,0.0471177944862155,Cooperative
+AR,Ozarks Electric Coop Corp - (AR),61344.1666666667,2851.0,0.0464754866667572,Cooperative
+IN,Daviess Martin County R E M C,7947.33333333333,369.0,0.0464306685680732,Cooperative
+CO,Morgan County Rural Elec Assn,5825.33333333333,269.0,0.0461776150148775,Cooperative
+MO,Osage Valley Elec Coop Assn,16417.25,757.0,0.0461100366992036,Cooperative
+OK,Verdigris Valley Elec Coop Inc,35101.75,1614.0,0.0459806135021758,Cooperative
+OH,"Pioneer Rural Elec Coop, Inc - - (OH)",17406.6666666667,798.0,0.0458445040214477,Cooperative
+PA,Adams Electric Cooperative Inc,32497.5833333333,1485.0,0.0456957055781071,Cooperative
+FL,Okefenoke Rural El Member Corp,8044.91666666667,365.0,0.0453702648670486,Cooperative
+MO,"Crawford Electric Coop, Inc",19735.3333333333,895.0,0.0453501334324224,Cooperative
+IL,Corn Belt Energy Corporation,34401.0833333333,1543.0,0.0448532386334733,Cooperative
+OK,Ozarks Electric Coop Corp - (AR),9220.41666666667,412.0,0.0446834470604185,Cooperative
+MN,Freeborn Mower Electric Cooperative,17858.25,796.0,0.0445732364593395,Cooperative
+UT,"Empire Electric Assn, Inc",946.333333333333,42.0,0.0443818245861219,Cooperative
+MS,Magnolia Electric Power Assn,33216.25,1472.0,0.0443156587513642,Cooperative
+IL,Eastern Illinois Elec Coop,11092.0,488.0,0.0439956725567977,Cooperative
+AL,"Covington Electric Coop, Inc",24525.5833333333,1076.0,0.0438725548491881,Cooperative
+GA,Three Notch Elec Member Corp,13694.5833333333,597.0,0.0435938783582317,Cooperative
+OR,"Oregon Trail El Cons Coop, Inc",25628.4166666667,1108.0,0.0432332599555832,Cooperative
+KY,Grayson Rural Electric Coop Corp,15397.5,663.0,0.0430589381393083,Cooperative
+CO,Yampa Valley Electric Assn Inc,29327.25,1262.0,0.0430316514504428,Cooperative
+MS,Dixie Electric Power Assn - (MS),41322.8333333333,1772.0,0.0428818611179453,Cooperative
+CO,"Empire Electric Assn, Inc",12898.5,551.0,0.042718145520797,Cooperative
+KY,Taylor County Rural E C C,28085.0,1199.0,0.0426918283781378,Cooperative
+MO,"Howell-Oregon Elec Coop, Inc",25753.8333333333,1099.0,0.0426732589970425,Cooperative
+TX,Cherokee County Elec Coop Assn - (TX),23771.75,1002.0,0.0421508723589976,Cooperative
+MT,Flathead Electric Coop Inc,63317.25,2654.0,0.0419159075923228,Cooperative
+OR,"Coos-Curry Electric Coop, Inc",15865.1666666667,655.0,0.041285415638033,Cooperative
+NM,Roosevelt County Elec Coop Inc,2548.5,105.0,0.0412007062978222,Cooperative
+MI,Great Lakes Energy Coop,119248.916666667,4887.0,0.0409815043742536,Cooperative
+NC,Union Electric Membership Corp - (NC),87132.4166666667,3516.0,0.0403523755510052,Cooperative
+AR,Mississippi County Electric Co,4967.5,198.0,0.039859084046301,Cooperative
+MN,Connexus Energy,146640.583333333,5645.0,0.0384954824352285,Cooperative
+LA,"Panola-Harrison Elec Coop, Inc",8475.91666666667,326.0,0.0384619166068567,Cooperative
+PA,"Northwestern Rural E C A, Inc - (PA)",21452.75,819.0,0.0381769237044202,Cooperative
+LA,Northeast Louisiana Power Coop Inc.,17754.6666666667,677.0,0.0381308200660859,Cooperative
+CO,"Poudre Valley Rea, Inc",49161.5833333333,1869.0,0.0380174899438755,Cooperative
+NM,"Springer Electric Coop, Inc",2299.33333333333,87.0,0.0378370542186141,Cooperative
+MD,Southern Maryland Elec Coop Inc,162580.166666667,6080.0,0.0373969354605574,Cooperative
+TX,"Rusk County Electric Coop, Inc",17684.5,659.0,0.0372642709717549,Cooperative
+WA,"Big Bend Electric Coop, Inc",5808.16666666667,214.0,0.0368446727309248,Cooperative
+VA,Shenandoah Valley Elec Coop,85280.4166666667,3113.0,0.0365031049527783,Cooperative
+AL,Black Warrior Elec Member Corp,20052.75,721.0,0.0359551682437571,Cooperative
+OK,Red River Valley Rrl Elec Assn,17745.1666666667,633.0,0.0356716852476261,Cooperative
+CO,"San Isabel Electric Assn, Inc",20017.5833333333,712.0,0.0355687291589478,Cooperative
+VA,Central Virginia Electric Coop,34489.25,1203.0,0.034880433758345,Cooperative
+IL,"Shelby Electric Coop, Inc",9772.0,340.0,0.0347932869422841,Cooperative
+OH,"North Central Elec Coop, Inc - (OH)",8428.08333333333,293.0,0.0347647250758872,Cooperative
+OK,"Kiamichi Electric Coop, Inc",19257.5833333333,667.0,0.03463570628021,Cooperative
+IN,Tipmont Rural Elec Member Corp,30338.4166666667,1042.0,0.0343458925839351,Cooperative
+SC,"Newberry Electric Coop, Inc",12208.4166666667,417.0,0.0341567634350619,Cooperative
+IN,"Paulding-Putman Elec Coop, Inc",3850.83333333333,131.0,0.0340186106903268,Cooperative
+GA,Rayle Electric Membership Corp,16369.3333333333,554.0,0.033843772908691,Cooperative
+ND,Cass County Elec Coop Inc,51469.5833333333,1740.0,0.0338063743149271,Cooperative
+CO,K C Electric Association,6624.41666666667,222.0,0.0335123847382788,Cooperative
+WY,Yampa Valley Electric Assn Inc,901.0,30.0,0.0332963374028857,Cooperative
+IN,Rushshelby Energy,14710.5,488.0,0.0331735834947826,Cooperative
+OH,"Lorain-Medina R E C, Inc",14979.0,492.0,0.0328459843781294,Cooperative
+MN,People'S Cooperative Services,21538.0833333333,706.0,0.0327791470147839,Cooperative
+IL,Coles-Moultrie Electric Coop,8463.75,277.0,0.0327278097769901,Cooperative
+OK,Kay Electric Coop,4379.16666666667,142.0,0.0324262607040913,Cooperative
+ID,"Northern Lights, Inc",23693.5833333333,768.0,0.0324138391899354,Cooperative
+IL,Egyptian Electric Coop Assn,15730.5833333333,506.0,0.0321666392960634,Cooperative
+VA,"Northern Neck Elec Coop, Inc",17743.3333333333,570.0,0.0321247416870186,Cooperative
+SC,Palmetto Electric Coop Inc,68334.0,2183.0,0.0319460297948313,Cooperative
+GA,Amicalola Electric Member Corp,50014.4166666667,1596.0,0.0319107990529397,Cooperative
+AZ,Trico Electric Cooperative Inc,51788.6666666667,1642.0,0.0317057786130814,Cooperative
+VA,Northern Virginia Elec Coop,165917.833333333,5252.0,0.0316542224213391,Cooperative
+MN,BENCO Electric Cooperative,18359.9166666667,577.0,0.0314271578937813,Cooperative
+SC,York Electric Coop Inc,59685.25,1804.0,0.0302252231497732,Cooperative
+IN,Northeastern Rural E M C,30609.5,921.0,0.0300886979532498,Cooperative
+KY,Salt River Electric Coop Corp,56857.9166666667,1676.0,0.0294769857612909,Cooperative
+GA,Habersham Electric Membership Corp,34568.0833333333,1012.0,0.0292755600662461,Cooperative
+OK,"Central Rural Electric Cooperative, Inc",19657.5833333333,569.0,0.0289455723194187,Cooperative
+TX,"Wharton County Elec Coop, Inc",5548.0,160.0,0.0288392213410238,Cooperative
+IN,Kankakee Valley Rural E M C,18945.6666666667,546.0,0.0288192550627232,Cooperative
+VA,Powell Valley Electric Coop,6571.33333333333,189.0,0.028761286395455,Cooperative
+WI,Dunn County Electric Coop,10596.0833333333,303.0,0.0285954715972097,Cooperative
+IN,Whitewater Valley Rural EMC,9809.66666666667,279.0,0.0284413333786401,Cooperative
+OH,Consolidated Cooperative,19268.5833333333,548.0,0.0284400773279475,Cooperative
+CO,Southeast Colorado Power Assn,11113.3333333333,311.0,0.0279844031193761,Cooperative
+TX,"Navarro County Elec Coop, Inc",20015.25,555.0,0.0277288567467306,Cooperative
+TX,Deep East Texas Elec Coop Inc,37628.6666666667,1043.0,0.0277182290097975,Cooperative
+OH,Guernsey-Muskingum El Coop Inc,14380.8333333333,397.0,0.0276061887929536,Cooperative
+NC,Haywood Electric Member Corp,28123.25,772.0,0.027450596926031,Cooperative
+PA,Claverack Rural Elec Coop Inc,13478.0,368.0,0.0273037542662116,Cooperative
+MO,Carroll Electric Coop Corp - (AR),12999.0833333333,354.0,0.0272326894845149,Cooperative
+OH,"Union Rural Electric Coop, Inc",10556.9166666667,283.0,0.0268070696147076,Cooperative
+TN,South Kentucky Rural E C C,150.333333333333,4.0,0.0266075388026608,Cooperative
+WI,Oakdale Electric Coop,16214.75,428.0,0.0263957199463451,Cooperative
+TX,"Lighthouse Electric Coop, Inc",9680.16666666667,253.0,0.0261359136378506,Cooperative
+AZ,"Dixie Escalante R E A, Inc",2410.83333333333,63.0,0.0261320428620809,Cooperative
+MO,Missouri Rural Electric Coop,5087.66666666667,132.0,0.0259450959837516,Cooperative
+NV,"Mt Wheeler Power, Inc",5169.41666666667,134.0,0.0259216868440991,Cooperative
+IL,Menard Electric Coop,9047.58333333333,233.0,0.0257527332344733,Cooperative
+ND,"Capital Electric Coop, Inc",19453.25,499.0,0.0256512407952399,Cooperative
+UT,"Dixie Escalante R E A, Inc",24469.9166666667,623.0,0.0254598333327657,Cooperative
+MO,Co-Mo Electric Coop Inc,31121.3333333333,791.0,0.0254166488153892,Cooperative
+NC,Carteret-Craven El Member Corp,43136.1666666667,1096.0,0.0254079136996411,Cooperative
+MI,Cloverland Electric Co-Op,35980.8333333333,907.0,0.0252078652986544,Cooperative
+TN,Powell Valley Electric Coop,21143.9166666667,529.0,0.0250190165019884,Cooperative
+GA,Colquitt Electric Membership Corp,55075.3333333333,1375.0,0.024965804413349,Cooperative
+TX,Heart of Texas Electric Coop,18721.8333333333,465.0,0.024837311160766,Cooperative
+TN,Tri-State Electric Member Corp,2778.08333333333,69.0,0.0248372679005309,Cooperative
+IN,Kosciusko County Rural E M C,18791.9166666667,466.0,0.0247978962585864,Cooperative
+ND,Dakota Valley Elec Coop Inc,5721.16666666667,141.0,0.0246453229236461,Cooperative
+GA,Altamaha Electric Member Corp,21965.3333333333,539.0,0.0245386669904091,Cooperative
+CO,"La Plata Electric Assn, Inc",39776.8333333333,950.0,0.0238832486246182,Cooperative
+IN,Bartholomew County Rural E M C,11427.3333333333,272.0,0.023802578612683,Cooperative
+MO,Ozark Electric Coop Inc - (MO),35290.0,821.0,0.0232643808444319,Cooperative
+IL,"Southeastern Il Elec Coop, Inc",22709.1666666667,528.0,0.0232505229165902,Cooperative
+VT,"Vermont Electric Cooperative, Inc",35601.4166666667,827.0,0.0232294126872292,Cooperative
+NC,Tri-State Electric Member Corp,1553.41666666667,36.0,0.0231747223861381,Cooperative
+SC,"Tri-County Electric Coop, Inc (SC)",17642.5,403.0,0.022842567663313,Cooperative
+MS,Pearl River Valley El Pwr Assn,54278.8333333333,1220.0,0.0224765332096919,Cooperative
+TX,"Panola-Harrison Elec Coop, Inc",9419.41666666667,211.0,0.0224005378960127,Cooperative
+TX,"Fayette Electric Coop, Inc",9678.5,215.0,0.0222141860825541,Cooperative
+OH,"Paulding-Putman Elec Coop, Inc",9175.58333333333,202.0,0.0220149490949713,Cooperative
+SC,"Edisto Electric Coop, Inc",15304.0,336.0,0.021955044432828,Cooperative
+MT,"Missoula Electric Coop, Inc",14686.0,322.0,0.0219256434699714,Cooperative
+NC,Surry-Yadkin Elec Member Corp,28262.5833333333,614.0,0.0217248364297909,Cooperative
+NM,"Kit Carson Electric Coop, Inc",30591.25,660.0,0.0215747967147469,Cooperative
+MN,Minnesota Valley Electric Coop,42344.4166666667,905.0,0.02137235723718,Cooperative
+IN,Hendricks County Rural E M C,39561.75,842.0,0.0212831838834227,Cooperative
+WI,Barron Electric Coop,12320.4166666667,262.0,0.0212655145591667,Cooperative
+TX,"Central Texas Elec Coop, Inc",29420.0,622.0,0.0211420802175391,Cooperative
+MN,Lake Country Power,47828.0833333333,1010.0,0.0211173003308726,Cooperative
+UT,Moon Lake Electric Assn Inc,18149.5833333333,378.0,0.0208269244013866,Cooperative
+PA,"Bedford Rural Elec Coop, Inc",7704.41666666667,159.0,0.0206375131147718,Cooperative
+WY,Powder River Energy Corp,15405.8333333333,317.0,0.0205766214096392,Cooperative
+UT,Wells Rural Electric Co,491.833333333333,10.0,0.0203320908166723,Cooperative
+OR,Lane Electric Coop Inc,12534.5,254.0,0.0202640711635885,Cooperative
+FL,"Florida Keys El Coop Assn, Inc",28751.0833333333,566.0,0.0196862147223438,Cooperative
+MN,"Beltrami Electric Coop, Inc",20731.5,406.0,0.0195837252490172,Cooperative
+KS,"Alfalfa Electric Coop, Inc",204.916666666667,4.0,0.0195201301342009,Cooperative
+SD,"Black Hills Electric Coop, Inc",9226.58333333333,179.0,0.0194004642382969,Cooperative
+MN,Dakota Electric Association,116753.083333333,2247.0,0.0192457444021821,Cooperative
+GA,Tri-State Electric Member Corp,13024.8333333333,250.0,0.0191941035713829,Cooperative
+IL,"Tri-County Electric Coop, Inc Il",14010.8333333333,267.0,0.0190566823291501,Cooperative
+GA,Jefferson Electric Member Corp,37447.8333333333,678.0,0.0181051863258666,Cooperative
+IA,Access Energy Coop,7227.58333333333,128.0,0.0177099307052842,Cooperative
+IN,Heartland REMC,16550.0,284.0,0.0171601208459215,Cooperative
+TX,"Tri-County Electric Coop, Inc (OK)",175.0,3.0,0.0171428571428571,Cooperative
+GA,Flint Electric Membership Corp,96943.4166666667,1603.0,0.0165354188568761,Cooperative
+ND,"Lower Yellowstone R E A, Inc",1151.66666666667,19.0,0.0164978292329957,Cooperative
+IL,Rock Energy Cooperative,9336.5,154.0,0.0164944036844642,Cooperative
+MN,Mille Lacs Energy Cooperative,14492.6666666667,238.0,0.0164220985325912,Cooperative
+PA,"Central Electric Coop, Inc - (PA)",19288.0833333333,315.0,0.0163313272011648,Cooperative
+PA,"Somerset Rural Elec Coop, Inc",13118.25,214.0,0.0163131515255465,Cooperative
+DE,Delaware Electric Cooperative,118327.5,1927.0,0.0162853098392174,Cooperative
+MO,SEMO Electric Cooperative,10728.3333333333,174.0,0.016218735435762,Cooperative
+CA,Surprise Valley Electrification,2784.58333333333,44.0,0.0158012868472243,Cooperative
+SD,"Oahe Electric Cooperative, Inc.",2310.83333333333,36.0,0.0155787955283087,Cooperative
+IN,Utilities Dist-Western IN REMC,20059.1666666667,310.0,0.0154542810851232,Cooperative
+SC,Horry Electric Coop Inc,74143.0833333333,1143.0,0.0154161379404912,Cooperative
+NC,Albemarle Electric Member Corp,13794.8333333333,210.0,0.0152230907706992,Cooperative
+IN,Carroll-White REMC,13695.8333333333,208.0,0.0151871006997262,Cooperative
+AK,Chugach Electric Assn Inc,98555.0,1492.0,0.015138755009893,Cooperative
+ND,Verendrye Electric Coop Inc,14335.5,214.0,0.0149279760036274,Cooperative
+IN,Western Indiana Energy REMC,14600.75,217.0,0.0148622502268719,Cooperative
+NC,Blue Ridge Elec Member Corp - (NC),80741.5833333333,1198.0,0.0148374598384352,Cooperative
+PA,REA Energy Coop Inc,20934.6666666667,310.0,0.014807974014394,Cooperative
+MN,South Central Electric Assn,4663.58333333333,68.0,0.0145810624877151,Cooperative
+MO,Central Missouri Elec Coop Inc,11043.25,161.0,0.0145790414959364,Cooperative
+MN,Steele-Waseca Cooperative Electric,9537.0,139.0,0.0145748138827724,Cooperative
+MO,"Farmers Electric Coop, Inc - (MO)",9276.58333333333,135.0,0.0145527717640295,Cooperative
+PA,Tri-County Rural Elec Coop Inc (PA),19542.3333333333,283.0,0.0144813822982585,Cooperative
+WI,Adams-Columbia Electric Coop,32926.8333333333,473.0,0.0143651834117058,Cooperative
+LA,South Louisiana Elec Coop Assn,16997.4166666667,242.0,0.0142374576528786,Cooperative
+MO,"Platte-Clay Electric Coop, Inc",23439.6666666667,329.0,0.0140360357798035,Cooperative
+TX,"Jasper-Newton Elec Coop, Inc",21160.75,295.0,0.013940904741089,Cooperative
+CO,Moon Lake Electric Assn Inc,2226.25,31.0,0.0139247613700168,Cooperative
+NH,New Hampshire Elec Coop Inc,84122.0,1160.0,0.0137894962078885,Cooperative
+OR,"Consumers Power, Inc",18737.0,258.0,0.0137695468858408,Cooperative
+IA,Consumers Energy,6844.25,93.0,0.0135880483617635,Cooperative
+OR,Surprise Valley Electrification,1211.0,16.0,0.0132122213047069,Cooperative
+NE,Highline Electric Assn,759.083333333333,10.0,0.0131737841695027,Cooperative
+CO,"San Miguel Power Assn, Inc",15293.9166666667,201.0,0.0131424803979796,Cooperative
+MN,East Central Energy,61738.1666666667,808.0,0.0130875282442789,Cooperative
+NC,French Broad Elec Member Corp,36144.25,470.0,0.0130034514480173,Cooperative
+AL,Sand Mountain Electric Coop,27108.3333333333,346.0,0.0127636028281586,Cooperative
+WA,Peninsula Light Company,31181.9166666667,397.0,0.0127317382136548,Cooperative
+OR,Central Electric Coop Inc - (OR),34394.4166666667,437.0,0.0127055505617433,Cooperative
+GA,Southern Rivers Energy,21613.5833333333,272.0,0.0125846786164565,Cooperative
+WA,Benton Rural Electric Assn,13307.1666666667,167.0,0.0125496286462182,Cooperative
+IA,Linn County Rec,29414.5833333333,368.0,0.0125108010482329,Cooperative
+IN,Dubois Rural Electric Coop Inc,13377.1666666667,167.0,0.0124839589848373,Cooperative
+TN,Upper Cumberland E M C,45299.5833333333,553.0,0.0122076178036958,Cooperative
+MO,Consolidated Electric Coop,8884.75,108.0,0.0121556599791778,Cooperative
+GA,Hart Electric Member Corp,30136.0833333333,366.0,0.0121449093417913,Cooperative
+TX,South Plains Electric Coop Inc,55057.0833333333,640.0,0.0116242990229837,Cooperative
+MI,Presque Isle Elec & Gas Coop,35259.9166666667,402.0,0.011401047932142,Cooperative
+MN,Agralite Electric Coop,4292.75,48.0,0.011181643468639,Cooperative
+ID,"United Electric Co-Op, Inc - ID",7503.16666666667,82.0,0.0109287189853173,Cooperative
+IA,Eastern Iowa Light & Power Coop,18908.9166666667,200.0,0.0105770205414553,Cooperative
+PA,Valley Rural Electric Coop Inc,18167.5833333333,191.0,0.0105132309837577,Cooperative
+TX,"Rio Grande Electric Coop, Inc",6292.66666666667,66.0,0.01048839919483,Cooperative
+OK,Cimarron Electric Coop,15081.4166666667,158.0,0.0104764693856125,Cooperative
+IL,Wayne-White Counties Elec Coop,13643.5833333333,140.0,0.0102612339133781,Cooperative
+TN,French Broad Elec Member Corp,996.833333333333,10.0,0.0100317672629995,Cooperative
+NV,Wells Rural Electric Co,4541.41666666667,45.0,0.00990880231939373,Cooperative
+AK,Matanuska Electric Assn Inc,64385.4166666667,629.0,0.00976929299466106,Cooperative
+TX,"San Bernard Electric Coop, Inc",32725.5,310.0,0.00947273532871919,Cooperative
+TX,Karnes Electric Coop Inc,13157.0833333333,120.0,0.00912056243468347,Cooperative
+OK,"Tri-County Electric Coop, Inc Ok",11945.0,108.0,0.00904143993302637,Cooperative
+IL,Norris Electric Coop,16303.1666666667,147.0,0.00901665320643229,Cooperative
+ND,Nodak Electric Coop Inc,20697.4166666667,186.0,0.00898662876606984,Cooperative
+CO,"Holy Cross Electric Assn, Inc",50010.0,446.0,0.00891821635672865,Cooperative
+NM,Southwestern Electric Coop Inc - (NM),1016.41666666667,9.0,0.00885463638599656,Cooperative
+AL,Singing River Elec Cooperative,342.0,3.0,0.0087719298245614,Cooperative
+WI,East Central Energy,5538.75,46.0,0.00830512299706613,Cooperative
+TN,Duck River Elec Member Corp,71335.0,592.0,0.00829887152169342,Cooperative
+TX,"Greenbelt Electric Coop, Inc",3912.16666666667,32.0,0.00817961061645295,Cooperative
+MN,Crow Wing Cooperative Power & Light Comp,44640.9166666667,357.0,0.00799714760934942,Cooperative
+WI,Rock Energy Cooperative,7309.75,58.0,0.00793460788672663,Cooperative
+IL,"Jo-Carroll Energy, Inc",16593.0,130.0,0.00783462906044718,Cooperative
+GA,Coweta-Fayette El Member Corp,91061.6666666667,702.0,0.0077090616249062,Cooperative
+OK,Northwestern Electric Coop Inc - (OK),9198.58333333333,70.0,0.00760986746147505,Cooperative
+WA,Orcas Power & Light Coop,14406.6666666667,109.0,0.00756594169366034,Cooperative
+ND,"Mclean Electric Coop, Inc",3711.0,26.0,0.007006197790353,Cooperative
+AK,Homer Electric Assn Inc,29580.5,206.0,0.00696404726086442,Cooperative
+MI,Tri-County Electric Coop Mi,27115.8333333333,185.0,0.00682258213221058,Cooperative
+MN,Itasca-Mantrap Co-Op Electrical Assn,11132.5833333333,73.0,0.00655732796371013,Cooperative
+TX,"Big Country Electric Coop, Inc",9565.66666666667,62.0,0.00648151374708158,Cooperative
+IA,Prairie Energy Coop,3446.58333333333,22.0,0.00638313305447424,Cooperative
+MI,Alger-Delta Coop Electric Assn,9812.5,59.0,0.00601273885350318,Cooperative
+VT,Washington Electric Coop - (VT),10893.5833333333,65.0,0.00596681532706563,Cooperative
+WI,Polk-Burnett Electric Coop,20378.4166666667,121.0,0.00593765462642256,Cooperative
+IA,Butler County Rural Elec Coop - IA,5105.08333333333,30.0,0.00587649564976086,Cooperative
+MN,Federated Rural Electric Assn,5498.08333333333,32.0,0.00582021007320733,Cooperative
+OH,Holmes-Wayne Electric Coop Inc,17893.4166666667,94.0,0.00525332873822309,Cooperative
+MN,Wright-Hennepin Coop Elec Assn,60013.6666666667,315.0,0.0052488044389889,Cooperative
+MT,"Lower Yellowstone R E A, Inc",5216.5,27.0,0.00517588421355315,Cooperative
+TX,"Southwest Texas Elec Coop, Inc",5855.08333333333,30.0,0.00512375286432018,Cooperative
+IA,Maquoketa Valley Rrl Elec Coop,15577.5,78.0,0.00500722195474242,Cooperative
+OH,"Midwest Electric, Inc - (OH)",10836.4166666667,53.0,0.0048909156624653,Cooperative
+MN,Meeker Coop Light & Power Assn,9361.0,45.0,0.0048071787202222,Cooperative
+IA,Heartland Power Coop,5303.58333333333,24.0,0.00452524236758167,Cooperative
+MN,Minnesota Valley Coop L&P Assn,5309.58333333333,24.0,0.00452012869810877,Cooperative
+OH,Hancock-Wood Electric Coop Inc,11308.0,51.0,0.00451008135833039,Cooperative
+WI,Scenic Rivers Energy Coop,13609.0,61.0,0.00448232787126166,Cooperative
+SD,Rosebud Electric Coop Inc,5636.41666666667,25.0,0.00443544213965729,Cooperative
+OH,Licking Rural Electric Inc,27918.0,111.0,0.0039759295078444,Cooperative
+SD,"Northern Electric Coop, Inc",6886.0,26.0,0.00377577693871624,Cooperative
+WA,"Columbia Rural Elec Assn, Inc",4384.58333333333,16.0,0.00364914948208686,Cooperative
+GA,Sawnee Electric Membership Corporation,179486.25,654.0,0.0036437331550467,Cooperative
+MN,Mienergy Cooperative,16261.5833333333,59.0,0.00362818298751147,Cooperative
+ID,Fall River Rural Elec Coop Inc,15118.3333333333,53.0,0.00350567743357954,Cooperative
+IA,Iowa Lakes Electric Coop,13187.5,46.0,0.00348815165876777,Cooperative
+HI,Kauai Island Utility Cooperative,30234.0,98.0,0.00324138387246147,Cooperative
+IA,East-Central Iowa Rural Elec Coop,7348.91666666667,21.0,0.00285756404005125,Cooperative
+AK,Kotzebue Electric Assn Inc,1194.66666666667,3.0,0.00251116071428571,Cooperative
+ND,Burke-Divide Electric Coop Inc,1606.5,4.0,0.00248988484282602,Cooperative
+ID,Lower Valley Energy Inc,1609.83333333333,4.0,0.00248472926804017,Cooperative
+MN,Stearns Cooperative Elec Assn,26092.1666666667,60.0,0.00229954073061519,Cooperative
+MN,Runestone Electric Assn,15316.9166666667,32.0,0.0020891933211101,Cooperative
+MT,Fall River Rural Elec Coop Inc,1469.33333333333,3.0,0.00204174228675136,Cooperative
+MN,Lake Region Electric Cooperative - (MN),30061.6666666667,54.0,0.00179630758995398,Cooperative
+IA,Midland Power Coop,11738.5833333333,21.0,0.00178897226383081,Cooperative
+CO,"Mountain Parks Electric, Inc",18956.6666666667,30.0,0.00158255670828205,Cooperative
+NC,Central Electric Membership Corp. - (NC),21550.5,34.0,0.00157768961277001,Cooperative
+OK,"Cookson Hills Elec Coop, Inc",18961.0,27.0,0.00142397552871684,Cooperative
+TX,North Plains Electric Coop Inc,3062.75,4.0,0.001306015835442,Cooperative
+NE,Midwest Electric Member Corp - (NE),2388.66666666667,3.0,0.001255930784259,Cooperative
+IA,Lyon Rural Electric Coop,1720.91666666667,2.0,0.00116217132342259,Cooperative
+CO,"White River Electric Assn, Inc",2632.08333333333,3.0,0.00113978154187114,Cooperative
+IA,Mienergy Cooperative,7238.66666666667,8.0,0.00110517590716522,Cooperative
+MT,"Fergus Electric Coop, Inc",6999.5,5.0,0.000714336738338453,Cooperative
+IA,Calhoun County Elec Coop Assn,1646.58333333333,1.0,0.00060731818411863,Cooperative
+WY,Lower Valley Energy Inc,22583.8333333333,9.0,0.000398515162025933,Cooperative
+IA,North West Rural Electric Coop,6830.25,2.0,0.000292815050693606,Cooperative
